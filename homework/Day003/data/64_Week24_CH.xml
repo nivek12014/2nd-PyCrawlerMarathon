@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <cwbopendata xmlns="urn:cwb:gov:tw:cwbcommon:0.1">
-  <identifier>f6df1e80-c60e-4fe7-919f-726804ced057</identifier>
+  <identifier>2a6ae009-4e57-47f6-a8d0-a99acfa8cbbe</identifier>
   <sender>weather@cwb.gov.tw</sender>
-  <sent>2020-03-14T16:59:32+08:00</sent>
+  <sent>2020-03-15T00:23:01+08:00</sent>
   <status>Actual</status>
   <scope>Public</scope>
   <msgType>Issue</msgType>
@@ -12,12 +12,12 @@
     <datasetInfo>
       <datasetDescription>臺灣各縣市鄉鎮未來1週逐24小時天氣預報</datasetDescription>
       <datasetLanguage>zh-TW</datasetLanguage>
-      <issueTime>2020-03-14T17:00:00+08:00</issueTime>
+      <issueTime>2020-03-14T23:00:00+08:00</issueTime>
       <validTime>
-        <startTime>2020-03-14T18:00:00+08:00</startTime>
-        <endTime>2020-03-22T17:00:00+08:00</endTime>
+        <startTime>2020-03-15T00:00:00+08:00</startTime>
+        <endTime>2020-03-22T23:00:00+08:00</endTime>
       </validTime>
-      <update>2020-03-14T16:59:32+08:00</update>
+      <update>2020-03-15T00:23:01+08:00</update>
     </datasetInfo>
     <locations>
       <locationsName>高雄市</locationsName>
@@ -33,7 +33,7 @@
             <startTime>2020-03-15T00:00:00+08:00</startTime>
             <endTime>2020-03-16T00:00:00+08:00</endTime>
             <elementValue>
-              <value>22</value>
+              <value>21</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
@@ -1023,7 +1023,7 @@
             <startTime>2020-03-15T00:00:00+08:00</startTime>
             <endTime>2020-03-16T00:00:00+08:00</endTime>
             <elementValue>
-              <value>22</value>
+              <value>21</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
@@ -5973,7 +5973,7 @@
             <startTime>2020-03-15T00:00:00+08:00</startTime>
             <endTime>2020-03-16T00:00:00+08:00</endTime>
             <elementValue>
-              <value>22</value>
+              <value>21</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
@@ -8943,7 +8943,7 @@
             <startTime>2020-03-15T00:00:00+08:00</startTime>
             <endTime>2020-03-16T00:00:00+08:00</endTime>
             <elementValue>
-              <value>22</value>
+              <value>21</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
@@ -10923,7 +10923,7 @@
             <startTime>2020-03-15T00:00:00+08:00</startTime>
             <endTime>2020-03-16T00:00:00+08:00</endTime>
             <elementValue>
-              <value>22</value>
+              <value>21</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
@@ -15243,7 +15243,7 @@
             <startTime>2020-03-15T00:00:00+08:00</startTime>
             <endTime>2020-03-16T00:00:00+08:00</endTime>
             <elementValue>
-              <value>17</value>
+              <value>16</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
@@ -28743,7 +28743,7 @@
             <startTime>2020-03-15T00:00:00+08:00</startTime>
             <endTime>2020-03-16T00:00:00+08:00</endTime>
             <elementValue>
-              <value>21</value>
+              <value>20</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
@@ -28983,7 +28983,7 @@
             <startTime>2020-03-15T00:00:00+08:00</startTime>
             <endTime>2020-03-16T00:00:00+08:00</endTime>
             <elementValue>
-              <value>18</value>
+              <value>17</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
@@ -29667,7 +29667,7 @@
             <startTime>2020-03-15T00:00:00+08:00</startTime>
             <endTime>2020-03-16T00:00:00+08:00</endTime>
             <elementValue>
-              <value>多雲時晴。降雨機率 0%。溫度攝氏18至26度。稍有寒意至舒適。偏南風 風速3級(每秒4公尺)。相對濕度75%。</value>
+              <value>多雲時晴。降雨機率 0%。溫度攝氏17至26度。稍有寒意至舒適。偏南風 風速3級(每秒4公尺)。相對濕度75%。</value>
               <measures>NA</measures>
             </elementValue>
           </time>
@@ -29733,7 +29733,7 @@
             <startTime>2020-03-15T00:00:00+08:00</startTime>
             <endTime>2020-03-16T00:00:00+08:00</endTime>
             <elementValue>
-              <value>22</value>
+              <value>21</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
@@ -29973,7 +29973,7 @@
             <startTime>2020-03-15T00:00:00+08:00</startTime>
             <endTime>2020-03-16T00:00:00+08:00</endTime>
             <elementValue>
-              <value>19</value>
+              <value>18</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
@@ -30657,7 +30657,7 @@
             <startTime>2020-03-15T00:00:00+08:00</startTime>
             <endTime>2020-03-16T00:00:00+08:00</endTime>
             <elementValue>
-              <value>多雲時晴。降雨機率 0%。溫度攝氏19至26度。稍有寒意至舒適。偏南風 風速2級(每秒3公尺)。相對濕度68%。</value>
+              <value>多雲時晴。降雨機率 0%。溫度攝氏18至26度。稍有寒意至舒適。偏南風 風速2級(每秒3公尺)。相對濕度68%。</value>
               <measures>NA</measures>
             </elementValue>
           </time>

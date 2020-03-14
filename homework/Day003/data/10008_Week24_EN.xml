@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <cwbopendata xmlns="urn:cwb:gov:tw:cwbcommon:0.1">
-  <identifier>32c22122-3279-4c2e-b6df-6f901a790d6a</identifier>
+  <identifier>fa4d6687-755d-44a3-97c2-36eef546cf20</identifier>
   <sender>weather@cwb.gov.tw</sender>
-  <sent>2020-03-14T16:59:18+08:00</sent>
+  <sent>2020-03-15T00:22:47+08:00</sent>
   <status>Actual</status>
   <scope>Public</scope>
   <msgType>Issue</msgType>
@@ -12,12 +12,12 @@
     <datasetInfo>
       <datasetDescription>Seven Days Weather Forecast of 368 townships</datasetDescription>
       <datasetLanguage>EN</datasetLanguage>
-      <issueTime>2020-03-14T17:00:00+08:00</issueTime>
+      <issueTime>2020-03-14T23:00:00+08:00</issueTime>
       <validTime>
-        <startTime>2020-03-14T18:00:00+08:00</startTime>
-        <endTime>2020-03-22T17:00:00+08:00</endTime>
+        <startTime>2020-03-15T00:00:00+08:00</startTime>
+        <endTime>2020-03-22T23:00:00+08:00</endTime>
       </validTime>
-      <update>2020-03-14T16:59:18+08:00</update>
+      <update>2020-03-15T00:22:47+08:00</update>
     </datasetInfo>
     <locations>
       <locationsName>Nantou County</locationsName>
@@ -9933,7 +9933,7 @@
             <startTime>2020-03-15T00:00:00+08:00</startTime>
             <endTime>2020-03-16T00:00:00+08:00</endTime>
             <elementValue>
-              <value>18</value>
+              <value>17</value>
               <measures>C</measures>
             </elementValue>
           </time>

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <cwbopendata xmlns="urn:cwb:gov:tw:cwbcommon:0.1">
-  <identifier>c6370ee7-9dbe-4b59-b6e0-6392b38a8ec5</identifier>
+  <identifier>a9c791e2-b3ce-4643-9f9e-306eb1806ac2</identifier>
   <sender>weather@cwb.gov.tw</sender>
-  <sent>2020-03-14T16:59:26+08:00</sent>
+  <sent>2020-03-15T00:22:56+08:00</sent>
   <status>Actual</status>
   <scope>Public</scope>
   <msgType>Issue</msgType>
@@ -12,12 +12,12 @@
     <datasetInfo>
       <datasetDescription>臺灣各縣市鄉鎮未來1週逐24小時天氣預報</datasetDescription>
       <datasetLanguage>zh-TW</datasetLanguage>
-      <issueTime>2020-03-14T17:00:00+08:00</issueTime>
+      <issueTime>2020-03-14T23:00:00+08:00</issueTime>
       <validTime>
-        <startTime>2020-03-14T18:00:00+08:00</startTime>
-        <endTime>2020-03-22T17:00:00+08:00</endTime>
+        <startTime>2020-03-15T00:00:00+08:00</startTime>
+        <endTime>2020-03-22T23:00:00+08:00</endTime>
       </validTime>
-      <update>2020-03-14T16:59:26+08:00</update>
+      <update>2020-03-15T00:22:56+08:00</update>
     </datasetInfo>
     <locations>
       <locationsName>花蓮縣</locationsName>
@@ -7323,7 +7323,7 @@
             <startTime>2020-03-15T00:00:00+08:00</startTime>
             <endTime>2020-03-16T00:00:00+08:00</endTime>
             <elementValue>
-              <value>12</value>
+              <value>11</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
@@ -7953,7 +7953,7 @@
             <startTime>2020-03-15T00:00:00+08:00</startTime>
             <endTime>2020-03-16T00:00:00+08:00</endTime>
             <elementValue>
-              <value>16</value>
+              <value>15</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <cwbopendata xmlns="urn:cwb:gov:tw:cwbcommon:0.1">
-  <identifier>421252d9-6e72-4c02-a62e-3cc48ae19e3d</identifier>
+  <identifier>f9e159d1-5d06-4998-b146-ee664b342c74</identifier>
   <sender>weather@cwb.gov.tw</sender>
-  <sent>2020-03-14T16:59:35+08:00</sent>
+  <sent>2020-03-15T00:23:04+08:00</sent>
   <status>Actual</status>
   <scope>Public</scope>
   <msgType>Issue</msgType>
@@ -12,12 +12,12 @@
     <datasetInfo>
       <datasetDescription>臺灣各縣市鄉鎮未來1週逐24小時天氣預報</datasetDescription>
       <datasetLanguage>zh-TW</datasetLanguage>
-      <issueTime>2020-03-14T17:00:00+08:00</issueTime>
+      <issueTime>2020-03-14T23:00:00+08:00</issueTime>
       <validTime>
-        <startTime>2020-03-14T18:00:00+08:00</startTime>
-        <endTime>2020-03-22T17:00:00+08:00</endTime>
+        <startTime>2020-03-15T00:00:00+08:00</startTime>
+        <endTime>2020-03-22T23:00:00+08:00</endTime>
       </validTime>
-      <update>2020-03-14T16:59:35+08:00</update>
+      <update>2020-03-15T00:23:04+08:00</update>
     </datasetInfo>
     <locations>
       <locationsName>新北市</locationsName>
@@ -6963,7 +6963,7 @@
             <startTime>2020-03-15T00:00:00+08:00</startTime>
             <endTime>2020-03-16T00:00:00+08:00</endTime>
             <elementValue>
-              <value>15</value>
+              <value>16</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
@@ -9303,7 +9303,7 @@
             <startTime>2020-03-15T00:00:00+08:00</startTime>
             <endTime>2020-03-16T00:00:00+08:00</endTime>
             <elementValue>
-              <value>12</value>
+              <value>11</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
@@ -24783,7 +24783,7 @@
             <startTime>2020-03-15T00:00:00+08:00</startTime>
             <endTime>2020-03-16T00:00:00+08:00</endTime>
             <elementValue>
-              <value>13</value>
+              <value>14</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>

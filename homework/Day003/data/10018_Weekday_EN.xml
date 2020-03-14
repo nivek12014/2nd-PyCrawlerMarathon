@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <cwbopendata xmlns="urn:cwb:gov:tw:cwbcommon:0.1">
-  <identifier>75cd3bbb-bf41-4ba9-9072-d22fdf50b6e2</identifier>
+  <identifier>82e8d84e-906d-4e68-8fcb-fe858261ca18</identifier>
   <sender>weather@cwb.gov.tw</sender>
-  <sent>2020-03-14T16:58:42+08:00</sent>
+  <sent>2020-03-15T00:22:16+08:00</sent>
   <status>Actual</status>
   <scope>Public</scope>
   <msgType>Issue</msgType>
@@ -12,12 +12,12 @@
     <datasetInfo>
       <datasetDescription>Seven Days Weather Forecast of 368 townships</datasetDescription>
       <datasetLanguage>EN</datasetLanguage>
-      <issueTime>2020-03-14T17:00:00+08:00</issueTime>
+      <issueTime>2020-03-14T23:00:00+08:00</issueTime>
       <validTime>
-        <startTime>2020-03-14T18:00:00+08:00</startTime>
-        <endTime>2020-03-22T17:00:00+08:00</endTime>
+        <startTime>2020-03-15T00:00:00+08:00</startTime>
+        <endTime>2020-03-22T23:00:00+08:00</endTime>
       </validTime>
-      <update>2020-03-14T16:58:42+08:00</update>
+      <update>2020-03-15T00:22:16+08:00</update>
     </datasetInfo>
     <locations>
       <locationsName>Hsinchu City</locationsName>
@@ -30,7 +30,7 @@
           <elementName>T</elementName>
           <description>average of temperature</description>
           <time>
-            <startTime>2020-03-14T18:00:00+08:00</startTime>
+            <startTime>2020-03-15T00:00:00+08:00</startTime>
             <endTime>2020-03-15T06:00:00+08:00</endTime>
             <elementValue>
               <value>15</value>
@@ -154,10 +154,10 @@
           <elementName>Td</elementName>
           <description>average of dew point temperature</description>
           <time>
-            <startTime>2020-03-14T18:00:00+08:00</startTime>
+            <startTime>2020-03-15T00:00:00+08:00</startTime>
             <endTime>2020-03-15T06:00:00+08:00</endTime>
             <elementValue>
-              <value>10</value>
+              <value>9</value>
               <measures>C</measures>
             </elementValue>
           </time>
@@ -278,10 +278,10 @@
           <elementName>RH</elementName>
           <description>average of relative humidity</description>
           <time>
-            <startTime>2020-03-14T18:00:00+08:00</startTime>
+            <startTime>2020-03-15T00:00:00+08:00</startTime>
             <endTime>2020-03-15T06:00:00+08:00</endTime>
             <elementValue>
-              <value>70</value>
+              <value>69</value>
               <measures>%</measures>
             </elementValue>
           </time>
@@ -402,10 +402,10 @@
           <elementName>MaxT</elementName>
           <description>maximum temperature</description>
           <time>
-            <startTime>2020-03-14T18:00:00+08:00</startTime>
+            <startTime>2020-03-15T00:00:00+08:00</startTime>
             <endTime>2020-03-15T06:00:00+08:00</endTime>
             <elementValue>
-              <value>17</value>
+              <value>15</value>
               <measures>C</measures>
             </elementValue>
           </time>
@@ -526,7 +526,7 @@
           <elementName>MinT</elementName>
           <description>minimum temperature</description>
           <time>
-            <startTime>2020-03-14T18:00:00+08:00</startTime>
+            <startTime>2020-03-15T00:00:00+08:00</startTime>
             <endTime>2020-03-15T06:00:00+08:00</endTime>
             <elementValue>
               <value>15</value>
@@ -650,7 +650,7 @@
           <elementName>MaxAT</elementName>
           <description>maximum athletic temperature</description>
           <time>
-            <startTime>2020-03-14T18:00:00+08:00</startTime>
+            <startTime>2020-03-15T00:00:00+08:00</startTime>
             <endTime>2020-03-15T06:00:00+08:00</endTime>
             <elementValue>
               <value>12</value>
@@ -774,7 +774,7 @@
           <elementName>MinAT</elementName>
           <description>minimum athletic temperature</description>
           <time>
-            <startTime>2020-03-14T18:00:00+08:00</startTime>
+            <startTime>2020-03-15T00:00:00+08:00</startTime>
             <endTime>2020-03-15T06:00:00+08:00</endTime>
             <elementValue>
               <value>10</value>
@@ -898,10 +898,10 @@
           <elementName>MaxCI</elementName>
           <description>maximum comfort index</description>
           <time>
-            <startTime>2020-03-14T18:00:00+08:00</startTime>
+            <startTime>2020-03-15T00:00:00+08:00</startTime>
             <endTime>2020-03-15T06:00:00+08:00</endTime>
             <elementValue>
-              <value>16</value>
+              <value>15</value>
               <measures>NA </measures>
             </elementValue>
           </time>
@@ -1022,7 +1022,7 @@
           <elementName>MinCI</elementName>
           <description>minimum comfort index</description>
           <time>
-            <startTime>2020-03-14T18:00:00+08:00</startTime>
+            <startTime>2020-03-15T00:00:00+08:00</startTime>
             <endTime>2020-03-15T06:00:00+08:00</endTime>
             <elementValue>
               <value>14</value>
@@ -1146,10 +1146,10 @@
           <elementName>PoP12h</elementName>
           <description>12 hours probability of precipitation</description>
           <time>
-            <startTime>2020-03-14T18:00:00+08:00</startTime>
+            <startTime>2020-03-15T00:00:00+08:00</startTime>
             <endTime>2020-03-15T06:00:00+08:00</endTime>
             <elementValue>
-              <value>10</value>
+              <value>0</value>
               <measures>%</measures>
             </elementValue>
           </time>
@@ -1270,7 +1270,7 @@
           <elementName>WD</elementName>
           <description>wind direction</description>
           <time>
-            <startTime>2020-03-14T18:00:00+08:00</startTime>
+            <startTime>2020-03-15T00:00:00+08:00</startTime>
             <endTime>2020-03-15T06:00:00+08:00</endTime>
             <elementValue>
               <value>NE</value>
@@ -1394,14 +1394,14 @@
           <elementName>WS</elementName>
           <description>maximum of wind speed</description>
           <time>
-            <startTime>2020-03-14T18:00:00+08:00</startTime>
+            <startTime>2020-03-15T00:00:00+08:00</startTime>
             <endTime>2020-03-15T06:00:00+08:00</endTime>
             <elementValue>
-              <value>8</value>
+              <value>7</value>
               <measures>m/s</measures>
             </elementValue>
             <elementValue>
-              <value>5</value>
+              <value>4</value>
               <measures>Beaufort</measures>
             </elementValue>
           </time>
@@ -1578,7 +1578,7 @@
           <elementName>Wx</elementName>
           <description>weather</description>
           <time>
-            <startTime>2020-03-14T18:00:00+08:00</startTime>
+            <startTime>2020-03-15T00:00:00+08:00</startTime>
             <endTime>2020-03-15T06:00:00+08:00</endTime>
             <elementValue>
               <value>Partly cloudy</value>
@@ -1850,10 +1850,10 @@
           <elementName>WeatherDescription</elementName>
           <description>weather description</description>
           <time>
-            <startTime>2020-03-14T18:00:00+08:00</startTime>
+            <startTime>2020-03-15T00:00:00+08:00</startTime>
             <endTime>2020-03-15T06:00:00+08:00</endTime>
             <elementValue>
-              <value>Partly cloudy. Temperature between 15 and 17 centigrade. Cold~Cool. NE wind 8m/s. Chance of precipitation 10%.</value>
+              <value>Partly cloudy. Temperature between 15 and 15 centigrade. Cold. NE wind 7m/s. Chance of precipitation 0%.</value>
               <measures>NA</measures>
             </elementValue>
           </time>
@@ -1980,10 +1980,10 @@
           <elementName>T</elementName>
           <description>average of temperature</description>
           <time>
-            <startTime>2020-03-14T18:00:00+08:00</startTime>
+            <startTime>2020-03-15T00:00:00+08:00</startTime>
             <endTime>2020-03-15T06:00:00+08:00</endTime>
             <elementValue>
-              <value>16</value>
+              <value>15</value>
               <measures>C</measures>
             </elementValue>
           </time>
@@ -2104,7 +2104,7 @@
           <elementName>Td</elementName>
           <description>average of dew point temperature</description>
           <time>
-            <startTime>2020-03-14T18:00:00+08:00</startTime>
+            <startTime>2020-03-15T00:00:00+08:00</startTime>
             <endTime>2020-03-15T06:00:00+08:00</endTime>
             <elementValue>
               <value>10</value>
@@ -2228,7 +2228,7 @@
           <elementName>RH</elementName>
           <description>average of relative humidity</description>
           <time>
-            <startTime>2020-03-14T18:00:00+08:00</startTime>
+            <startTime>2020-03-15T00:00:00+08:00</startTime>
             <endTime>2020-03-15T06:00:00+08:00</endTime>
             <elementValue>
               <value>72</value>
@@ -2352,10 +2352,10 @@
           <elementName>MaxT</elementName>
           <description>maximum temperature</description>
           <time>
-            <startTime>2020-03-14T18:00:00+08:00</startTime>
+            <startTime>2020-03-15T00:00:00+08:00</startTime>
             <endTime>2020-03-15T06:00:00+08:00</endTime>
             <elementValue>
-              <value>17</value>
+              <value>15</value>
               <measures>C</measures>
             </elementValue>
           </time>
@@ -2476,7 +2476,7 @@
           <elementName>MinT</elementName>
           <description>minimum temperature</description>
           <time>
-            <startTime>2020-03-14T18:00:00+08:00</startTime>
+            <startTime>2020-03-15T00:00:00+08:00</startTime>
             <endTime>2020-03-15T06:00:00+08:00</endTime>
             <elementValue>
               <value>14</value>
@@ -2600,10 +2600,10 @@
           <elementName>MaxAT</elementName>
           <description>maximum athletic temperature</description>
           <time>
-            <startTime>2020-03-14T18:00:00+08:00</startTime>
+            <startTime>2020-03-15T00:00:00+08:00</startTime>
             <endTime>2020-03-15T06:00:00+08:00</endTime>
             <elementValue>
-              <value>12</value>
+              <value>11</value>
               <measures>C</measures>
             </elementValue>
           </time>
@@ -2724,7 +2724,7 @@
           <elementName>MinAT</elementName>
           <description>minimum athletic temperature</description>
           <time>
-            <startTime>2020-03-14T18:00:00+08:00</startTime>
+            <startTime>2020-03-15T00:00:00+08:00</startTime>
             <endTime>2020-03-15T06:00:00+08:00</endTime>
             <elementValue>
               <value>9</value>
@@ -2848,10 +2848,10 @@
           <elementName>MaxCI</elementName>
           <description>maximum comfort index</description>
           <time>
-            <startTime>2020-03-14T18:00:00+08:00</startTime>
+            <startTime>2020-03-15T00:00:00+08:00</startTime>
             <endTime>2020-03-15T06:00:00+08:00</endTime>
             <elementValue>
-              <value>16</value>
+              <value>15</value>
               <measures>NA </measures>
             </elementValue>
           </time>
@@ -2972,7 +2972,7 @@
           <elementName>MinCI</elementName>
           <description>minimum comfort index</description>
           <time>
-            <startTime>2020-03-14T18:00:00+08:00</startTime>
+            <startTime>2020-03-15T00:00:00+08:00</startTime>
             <endTime>2020-03-15T06:00:00+08:00</endTime>
             <elementValue>
               <value>14</value>
@@ -3096,10 +3096,10 @@
           <elementName>PoP12h</elementName>
           <description>12 hours probability of precipitation</description>
           <time>
-            <startTime>2020-03-14T18:00:00+08:00</startTime>
+            <startTime>2020-03-15T00:00:00+08:00</startTime>
             <endTime>2020-03-15T06:00:00+08:00</endTime>
             <elementValue>
-              <value>10</value>
+              <value>0</value>
               <measures>%</measures>
             </elementValue>
           </time>
@@ -3220,7 +3220,7 @@
           <elementName>WD</elementName>
           <description>wind direction</description>
           <time>
-            <startTime>2020-03-14T18:00:00+08:00</startTime>
+            <startTime>2020-03-15T00:00:00+08:00</startTime>
             <endTime>2020-03-15T06:00:00+08:00</endTime>
             <elementValue>
               <value>NE</value>
@@ -3344,7 +3344,7 @@
           <elementName>WS</elementName>
           <description>maximum of wind speed</description>
           <time>
-            <startTime>2020-03-14T18:00:00+08:00</startTime>
+            <startTime>2020-03-15T00:00:00+08:00</startTime>
             <endTime>2020-03-15T06:00:00+08:00</endTime>
             <elementValue>
               <value>8</value>
@@ -3528,7 +3528,7 @@
           <elementName>Wx</elementName>
           <description>weather</description>
           <time>
-            <startTime>2020-03-14T18:00:00+08:00</startTime>
+            <startTime>2020-03-15T00:00:00+08:00</startTime>
             <endTime>2020-03-15T06:00:00+08:00</endTime>
             <elementValue>
               <value>Partly cloudy</value>
@@ -3800,10 +3800,10 @@
           <elementName>WeatherDescription</elementName>
           <description>weather description</description>
           <time>
-            <startTime>2020-03-14T18:00:00+08:00</startTime>
+            <startTime>2020-03-15T00:00:00+08:00</startTime>
             <endTime>2020-03-15T06:00:00+08:00</endTime>
             <elementValue>
-              <value>Partly cloudy. Temperature between 14 and 17 centigrade. Cold~Cool. NE wind 8m/s. Chance of precipitation 10%.</value>
+              <value>Partly cloudy. Temperature between 14 and 15 centigrade. Cold. NE wind 8m/s. Chance of precipitation 0%.</value>
               <measures>NA</measures>
             </elementValue>
           </time>
@@ -3930,10 +3930,10 @@
           <elementName>T</elementName>
           <description>average of temperature</description>
           <time>
-            <startTime>2020-03-14T18:00:00+08:00</startTime>
+            <startTime>2020-03-15T00:00:00+08:00</startTime>
             <endTime>2020-03-15T06:00:00+08:00</endTime>
             <elementValue>
-              <value>15</value>
+              <value>14</value>
               <measures>C</measures>
             </elementValue>
           </time>
@@ -4054,10 +4054,10 @@
           <elementName>Td</elementName>
           <description>average of dew point temperature</description>
           <time>
-            <startTime>2020-03-14T18:00:00+08:00</startTime>
+            <startTime>2020-03-15T00:00:00+08:00</startTime>
             <endTime>2020-03-15T06:00:00+08:00</endTime>
             <elementValue>
-              <value>11</value>
+              <value>10</value>
               <measures>C</measures>
             </elementValue>
           </time>
@@ -4178,10 +4178,10 @@
           <elementName>RH</elementName>
           <description>average of relative humidity</description>
           <time>
-            <startTime>2020-03-14T18:00:00+08:00</startTime>
+            <startTime>2020-03-15T00:00:00+08:00</startTime>
             <endTime>2020-03-15T06:00:00+08:00</endTime>
             <elementValue>
-              <value>74</value>
+              <value>76</value>
               <measures>%</measures>
             </elementValue>
           </time>
@@ -4302,10 +4302,10 @@
           <elementName>MaxT</elementName>
           <description>maximum temperature</description>
           <time>
-            <startTime>2020-03-14T18:00:00+08:00</startTime>
+            <startTime>2020-03-15T00:00:00+08:00</startTime>
             <endTime>2020-03-15T06:00:00+08:00</endTime>
             <elementValue>
-              <value>17</value>
+              <value>15</value>
               <measures>C</measures>
             </elementValue>
           </time>
@@ -4426,7 +4426,7 @@
           <elementName>MinT</elementName>
           <description>minimum temperature</description>
           <time>
-            <startTime>2020-03-14T18:00:00+08:00</startTime>
+            <startTime>2020-03-15T00:00:00+08:00</startTime>
             <endTime>2020-03-15T06:00:00+08:00</endTime>
             <elementValue>
               <value>14</value>
@@ -4550,7 +4550,7 @@
           <elementName>MaxAT</elementName>
           <description>maximum athletic temperature</description>
           <time>
-            <startTime>2020-03-14T18:00:00+08:00</startTime>
+            <startTime>2020-03-15T00:00:00+08:00</startTime>
             <endTime>2020-03-15T06:00:00+08:00</endTime>
             <elementValue>
               <value>11</value>
@@ -4674,7 +4674,7 @@
           <elementName>MinAT</elementName>
           <description>minimum athletic temperature</description>
           <time>
-            <startTime>2020-03-14T18:00:00+08:00</startTime>
+            <startTime>2020-03-15T00:00:00+08:00</startTime>
             <endTime>2020-03-15T06:00:00+08:00</endTime>
             <elementValue>
               <value>9</value>
@@ -4798,10 +4798,10 @@
           <elementName>MaxCI</elementName>
           <description>maximum comfort index</description>
           <time>
-            <startTime>2020-03-14T18:00:00+08:00</startTime>
+            <startTime>2020-03-15T00:00:00+08:00</startTime>
             <endTime>2020-03-15T06:00:00+08:00</endTime>
             <elementValue>
-              <value>16</value>
+              <value>15</value>
               <measures>NA </measures>
             </elementValue>
           </time>
@@ -4922,7 +4922,7 @@
           <elementName>MinCI</elementName>
           <description>minimum comfort index</description>
           <time>
-            <startTime>2020-03-14T18:00:00+08:00</startTime>
+            <startTime>2020-03-15T00:00:00+08:00</startTime>
             <endTime>2020-03-15T06:00:00+08:00</endTime>
             <elementValue>
               <value>14</value>
@@ -5046,10 +5046,10 @@
           <elementName>PoP12h</elementName>
           <description>12 hours probability of precipitation</description>
           <time>
-            <startTime>2020-03-14T18:00:00+08:00</startTime>
+            <startTime>2020-03-15T00:00:00+08:00</startTime>
             <endTime>2020-03-15T06:00:00+08:00</endTime>
             <elementValue>
-              <value>10</value>
+              <value>0</value>
               <measures>%</measures>
             </elementValue>
           </time>
@@ -5170,7 +5170,7 @@
           <elementName>WD</elementName>
           <description>wind direction</description>
           <time>
-            <startTime>2020-03-14T18:00:00+08:00</startTime>
+            <startTime>2020-03-15T00:00:00+08:00</startTime>
             <endTime>2020-03-15T06:00:00+08:00</endTime>
             <elementValue>
               <value>NE</value>
@@ -5294,10 +5294,10 @@
           <elementName>WS</elementName>
           <description>maximum of wind speed</description>
           <time>
-            <startTime>2020-03-14T18:00:00+08:00</startTime>
+            <startTime>2020-03-15T00:00:00+08:00</startTime>
             <endTime>2020-03-15T06:00:00+08:00</endTime>
             <elementValue>
-              <value>9</value>
+              <value>8</value>
               <measures>m/s</measures>
             </elementValue>
             <elementValue>
@@ -5478,7 +5478,7 @@
           <elementName>Wx</elementName>
           <description>weather</description>
           <time>
-            <startTime>2020-03-14T18:00:00+08:00</startTime>
+            <startTime>2020-03-15T00:00:00+08:00</startTime>
             <endTime>2020-03-15T06:00:00+08:00</endTime>
             <elementValue>
               <value>Partly cloudy</value>
@@ -5750,10 +5750,10 @@
           <elementName>WeatherDescription</elementName>
           <description>weather description</description>
           <time>
-            <startTime>2020-03-14T18:00:00+08:00</startTime>
+            <startTime>2020-03-15T00:00:00+08:00</startTime>
             <endTime>2020-03-15T06:00:00+08:00</endTime>
             <elementValue>
-              <value>Partly cloudy. Temperature between 14 and 17 centigrade. Cold~Cool. NE wind 9m/s. Chance of precipitation 10%.</value>
+              <value>Partly cloudy. Temperature between 14 and 15 centigrade. Cold. NE wind 8m/s. Chance of precipitation 0%.</value>
               <measures>NA</measures>
             </elementValue>
           </time>

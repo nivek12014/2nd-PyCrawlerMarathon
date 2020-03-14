@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <cwbopendata xmlns="urn:cwb:gov:tw:cwbcommon:0.1">
-  <identifier>88f2cee0-1684-454a-987d-11c823a9b9a5</identifier>
+  <identifier>87dbc495-98d9-4676-9623-0769a9b4a70f</identifier>
   <sender>weather@cwb.gov.tw</sender>
-  <sent>2020-03-14T16:59:10+08:00</sent>
+  <sent>2020-03-15T00:22:39+08:00</sent>
   <status>Actual</status>
   <scope>Public</scope>
   <msgType>Issue</msgType>
@@ -12,12 +12,12 @@
     <datasetInfo>
       <datasetDescription>Seven Days Weather Forecast of 368 townships</datasetDescription>
       <datasetLanguage>EN</datasetLanguage>
-      <issueTime>2020-03-14T17:00:00+08:00</issueTime>
+      <issueTime>2020-03-14T23:00:00+08:00</issueTime>
       <validTime>
-        <startTime>2020-03-14T18:00:00+08:00</startTime>
-        <endTime>2020-03-22T17:00:00+08:00</endTime>
+        <startTime>2020-03-15T00:00:00+08:00</startTime>
+        <endTime>2020-03-22T23:00:00+08:00</endTime>
       </validTime>
-      <update>2020-03-14T16:59:10+08:00</update>
+      <update>2020-03-15T00:22:39+08:00</update>
     </datasetInfo>
     <locations>
       <locationsName>Lienchiang County</locationsName>

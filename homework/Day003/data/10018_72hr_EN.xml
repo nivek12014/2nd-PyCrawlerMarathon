@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <cwbopendata xmlns="urn:cwb:gov:tw:cwbcommon:0.1">
-  <identifier>48cb7719-8b99-43a0-b0f1-ea8c4dabc7f5</identifier>
+  <identifier>5c907f5c-7e30-492f-b14c-4c152ad43ae8</identifier>
   <sender>weather@cwb.gov.tw</sender>
-  <sent>2020-03-14T16:57:42+08:00</sent>
+  <sent>2020-03-15T00:21:29+08:00</sent>
   <status>Actual</status>
   <scope>Public</scope>
   <msgType>Issue</msgType>
@@ -12,12 +12,12 @@
     <datasetInfo>
       <datasetDescription>Seventy-Two Hours Weather Forecast of 368 townships</datasetDescription>
       <datasetLanguage>EN</datasetLanguage>
-      <issueTime>2020-03-14T17:00:00+08:00</issueTime>
+      <issueTime>2020-03-14T23:00:00+08:00</issueTime>
       <validTime>
-        <startTime>2020-03-14T18:00:00+08:00</startTime>
-        <endTime>2020-03-17T17:00:00+08:00</endTime>
+        <startTime>2020-03-15T00:00:00+08:00</startTime>
+        <endTime>2020-03-17T23:00:00+08:00</endTime>
       </validTime>
-      <update>2020-03-14T16:57:42+08:00</update>
+      <update>2020-03-15T00:21:29+08:00</update>
     </datasetInfo>
     <locations>
       <locationsName>Hsinchu City</locationsName>
@@ -29,20 +29,6 @@
         <weatherElement>
           <elementName>T</elementName>
           <description>temperature</description>
-          <time>
-            <dataTime>2020-03-14T18:00:00+08:00</dataTime>
-            <elementValue>
-              <value>17</value>
-              <measures>C</measures>
-            </elementValue>
-          </time>
-          <time>
-            <dataTime>2020-03-14T21:00:00+08:00</dataTime>
-            <elementValue>
-              <value>16</value>
-              <measures>C</measures>
-            </elementValue>
-          </time>
           <time>
             <dataTime>2020-03-15T00:00:00+08:00</dataTime>
             <elementValue>
@@ -197,24 +183,24 @@
               <measures>C</measures>
             </elementValue>
           </time>
+          <time>
+            <dataTime>2020-03-17T18:00:00+08:00</dataTime>
+            <elementValue>
+              <value>20</value>
+              <measures>C</measures>
+            </elementValue>
+          </time>
+          <time>
+            <dataTime>2020-03-17T21:00:00+08:00</dataTime>
+            <elementValue>
+              <value>19</value>
+              <measures>C</measures>
+            </elementValue>
+          </time>
         </weatherElement>
         <weatherElement>
           <elementName>Td</elementName>
           <description>dew point temperature</description>
-          <time>
-            <dataTime>2020-03-14T18:00:00+08:00</dataTime>
-            <elementValue>
-              <value>11</value>
-              <measures>C</measures>
-            </elementValue>
-          </time>
-          <time>
-            <dataTime>2020-03-14T21:00:00+08:00</dataTime>
-            <elementValue>
-              <value>11</value>
-              <measures>C</measures>
-            </elementValue>
-          </time>
           <time>
             <dataTime>2020-03-15T00:00:00+08:00</dataTime>
             <elementValue>
@@ -369,24 +355,24 @@
               <measures>C</measures>
             </elementValue>
           </time>
+          <time>
+            <dataTime>2020-03-17T18:00:00+08:00</dataTime>
+            <elementValue>
+              <value>15</value>
+              <measures>C</measures>
+            </elementValue>
+          </time>
+          <time>
+            <dataTime>2020-03-17T21:00:00+08:00</dataTime>
+            <elementValue>
+              <value>15</value>
+              <measures>C</measures>
+            </elementValue>
+          </time>
         </weatherElement>
         <weatherElement>
           <elementName>RH</elementName>
           <description>relative humidity</description>
-          <time>
-            <dataTime>2020-03-14T18:00:00+08:00</dataTime>
-            <elementValue>
-              <value>69</value>
-              <measures>%</measures>
-            </elementValue>
-          </time>
-          <time>
-            <dataTime>2020-03-14T21:00:00+08:00</dataTime>
-            <elementValue>
-              <value>73</value>
-              <measures>%</measures>
-            </elementValue>
-          </time>
           <time>
             <dataTime>2020-03-15T00:00:00+08:00</dataTime>
             <elementValue>
@@ -541,18 +527,24 @@
               <measures>%</measures>
             </elementValue>
           </time>
+          <time>
+            <dataTime>2020-03-17T18:00:00+08:00</dataTime>
+            <elementValue>
+              <value>74</value>
+              <measures>%</measures>
+            </elementValue>
+          </time>
+          <time>
+            <dataTime>2020-03-17T21:00:00+08:00</dataTime>
+            <elementValue>
+              <value>79</value>
+              <measures>%</measures>
+            </elementValue>
+          </time>
         </weatherElement>
         <weatherElement>
           <elementName>PoP6h</elementName>
           <description>6 hours probability of precipitation</description>
-          <time>
-            <startTime>2020-03-14T18:00:00+08:00</startTime>
-            <endTime>2020-03-15T00:00:00+08:00</endTime>
-            <elementValue>
-              <value>10</value>
-              <measures>%</measures>
-            </elementValue>
-          </time>
           <time>
             <startTime>2020-03-15T00:00:00+08:00</startTime>
             <endTime>2020-03-15T06:00:00+08:00</endTime>
@@ -641,53 +633,61 @@
               <measures>%</measures>
             </elementValue>
           </time>
+          <time>
+            <startTime>2020-03-17T18:00:00+08:00</startTime>
+            <endTime>2020-03-18T00:00:00+08:00</endTime>
+            <elementValue>
+              <value>0</value>
+              <measures>%</measures>
+            </elementValue>
+          </time>
         </weatherElement>
         <weatherElement>
           <elementName>PoP12h</elementName>
           <description>12 hours probability of precipitation</description>
           <time>
-            <startTime>2020-03-14T18:00:00+08:00</startTime>
-            <endTime>2020-03-15T06:00:00+08:00</endTime>
-            <elementValue>
-              <value>10</value>
-              <measures>%</measures>
-            </elementValue>
-          </time>
-          <time>
-            <startTime>2020-03-15T06:00:00+08:00</startTime>
-            <endTime>2020-03-15T18:00:00+08:00</endTime>
+            <startTime>2020-03-15T00:00:00+08:00</startTime>
+            <endTime>2020-03-15T12:00:00+08:00</endTime>
             <elementValue>
               <value>0</value>
               <measures>%</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2020-03-15T18:00:00+08:00</startTime>
-            <endTime>2020-03-16T06:00:00+08:00</endTime>
+            <startTime>2020-03-15T12:00:00+08:00</startTime>
+            <endTime>2020-03-16T00:00:00+08:00</endTime>
             <elementValue>
               <value>0</value>
               <measures>%</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2020-03-16T06:00:00+08:00</startTime>
-            <endTime>2020-03-16T18:00:00+08:00</endTime>
+            <startTime>2020-03-16T00:00:00+08:00</startTime>
+            <endTime>2020-03-16T12:00:00+08:00</endTime>
             <elementValue>
               <value>0</value>
               <measures>%</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2020-03-16T18:00:00+08:00</startTime>
-            <endTime>2020-03-17T06:00:00+08:00</endTime>
+            <startTime>2020-03-16T12:00:00+08:00</startTime>
+            <endTime>2020-03-17T00:00:00+08:00</endTime>
             <elementValue>
               <value>0</value>
               <measures>%</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2020-03-17T06:00:00+08:00</startTime>
-            <endTime>2020-03-17T18:00:00+08:00</endTime>
+            <startTime>2020-03-17T00:00:00+08:00</startTime>
+            <endTime>2020-03-17T12:00:00+08:00</endTime>
+            <elementValue>
+              <value>0</value>
+              <measures>%</measures>
+            </elementValue>
+          </time>
+          <time>
+            <startTime>2020-03-17T12:00:00+08:00</startTime>
+            <endTime>2020-03-18T00:00:00+08:00</endTime>
             <elementValue>
               <value>0</value>
               <measures>%</measures>
@@ -697,20 +697,6 @@
         <weatherElement>
           <elementName>WD</elementName>
           <description>wind direction</description>
-          <time>
-            <dataTime>2020-03-14T18:00:00+08:00</dataTime>
-            <elementValue>
-              <value>NE</value>
-              <measures>16 directions</measures>
-            </elementValue>
-          </time>
-          <time>
-            <dataTime>2020-03-14T21:00:00+08:00</dataTime>
-            <elementValue>
-              <value>NE</value>
-              <measures>16 directions</measures>
-            </elementValue>
-          </time>
           <time>
             <dataTime>2020-03-15T00:00:00+08:00</dataTime>
             <elementValue>
@@ -865,32 +851,24 @@
               <measures>16 directions</measures>
             </elementValue>
           </time>
+          <time>
+            <dataTime>2020-03-17T18:00:00+08:00</dataTime>
+            <elementValue>
+              <value>S</value>
+              <measures>16 directions</measures>
+            </elementValue>
+          </time>
+          <time>
+            <dataTime>2020-03-17T21:00:00+08:00</dataTime>
+            <elementValue>
+              <value>S</value>
+              <measures>16 directions</measures>
+            </elementValue>
+          </time>
         </weatherElement>
         <weatherElement>
           <elementName>WS</elementName>
           <description>wind speed</description>
-          <time>
-            <dataTime>2020-03-14T18:00:00+08:00</dataTime>
-            <elementValue>
-              <value>8</value>
-              <measures>m/s</measures>
-            </elementValue>
-            <elementValue>
-              <value>4</value>
-              <measures>Beaufort</measures>
-            </elementValue>
-          </time>
-          <time>
-            <dataTime>2020-03-14T21:00:00+08:00</dataTime>
-            <elementValue>
-              <value>7</value>
-              <measures>m/s</measures>
-            </elementValue>
-            <elementValue>
-              <value>4</value>
-              <measures>Beaufort</measures>
-            </elementValue>
-          </time>
           <time>
             <dataTime>2020-03-15T00:00:00+08:00</dataTime>
             <elementValue>
@@ -1133,32 +1111,32 @@
               <measures>Beaufort</measures>
             </elementValue>
           </time>
+          <time>
+            <dataTime>2020-03-17T18:00:00+08:00</dataTime>
+            <elementValue>
+              <value>2</value>
+              <measures>m/s</measures>
+            </elementValue>
+            <elementValue>
+              <value>&lt;= 1</value>
+              <measures>Beaufort</measures>
+            </elementValue>
+          </time>
+          <time>
+            <dataTime>2020-03-17T21:00:00+08:00</dataTime>
+            <elementValue>
+              <value>1</value>
+              <measures>m/s</measures>
+            </elementValue>
+            <elementValue>
+              <value>&lt;= 1</value>
+              <measures>Beaufort</measures>
+            </elementValue>
+          </time>
         </weatherElement>
         <weatherElement>
           <elementName>CI</elementName>
           <description>comfort index</description>
-          <time>
-            <dataTime>2020-03-14T18:00:00+08:00</dataTime>
-            <elementValue>
-              <value>16</value>
-              <measures>NA</measures>
-            </elementValue>
-            <elementValue>
-              <value>Cool</value>
-              <measures>define CI text by self</measures>
-            </elementValue>
-          </time>
-          <time>
-            <dataTime>2020-03-14T21:00:00+08:00</dataTime>
-            <elementValue>
-              <value>15</value>
-              <measures>NA</measures>
-            </elementValue>
-            <elementValue>
-              <value>Cool</value>
-              <measures>define CI text by self</measures>
-            </elementValue>
-          </time>
           <time>
             <dataTime>2020-03-15T00:00:00+08:00</dataTime>
             <elementValue>
@@ -1401,24 +1379,32 @@
               <measures>define CI text by self</measures>
             </elementValue>
           </time>
+          <time>
+            <dataTime>2020-03-17T18:00:00+08:00</dataTime>
+            <elementValue>
+              <value>19</value>
+              <measures>NA</measures>
+            </elementValue>
+            <elementValue>
+              <value>Comfortable</value>
+              <measures>define CI text by self</measures>
+            </elementValue>
+          </time>
+          <time>
+            <dataTime>2020-03-17T21:00:00+08:00</dataTime>
+            <elementValue>
+              <value>18</value>
+              <measures>NA</measures>
+            </elementValue>
+            <elementValue>
+              <value>Cool</value>
+              <measures>define CI text by self</measures>
+            </elementValue>
+          </time>
         </weatherElement>
         <weatherElement>
           <elementName>AT</elementName>
           <description>athletic temperature</description>
-          <time>
-            <dataTime>2020-03-14T18:00:00+08:00</dataTime>
-            <elementValue>
-              <value>11</value>
-              <measures>C</measures>
-            </elementValue>
-          </time>
-          <time>
-            <dataTime>2020-03-14T21:00:00+08:00</dataTime>
-            <elementValue>
-              <value>11</value>
-              <measures>C</measures>
-            </elementValue>
-          </time>
           <time>
             <dataTime>2020-03-15T00:00:00+08:00</dataTime>
             <elementValue>
@@ -1573,34 +1559,24 @@
               <measures>C</measures>
             </elementValue>
           </time>
+          <time>
+            <dataTime>2020-03-17T18:00:00+08:00</dataTime>
+            <elementValue>
+              <value>19</value>
+              <measures>C</measures>
+            </elementValue>
+          </time>
+          <time>
+            <dataTime>2020-03-17T21:00:00+08:00</dataTime>
+            <elementValue>
+              <value>19</value>
+              <measures>C</measures>
+            </elementValue>
+          </time>
         </weatherElement>
         <weatherElement>
           <elementName>Wx</elementName>
           <description>weather</description>
-          <time>
-            <startTime>2020-03-14T18:00:00+08:00</startTime>
-            <endTime>2020-03-14T21:00:00+08:00</endTime>
-            <elementValue>
-              <value>Partly cloudy</value>
-              <measures>define Wx text by self</measures>
-            </elementValue>
-            <elementValue>
-              <value>04</value>
-              <measures>define Wx unit by self</measures>
-            </elementValue>
-          </time>
-          <time>
-            <startTime>2020-03-14T21:00:00+08:00</startTime>
-            <endTime>2020-03-15T00:00:00+08:00</endTime>
-            <elementValue>
-              <value>Partly cloudy</value>
-              <measures>define Wx text by self</measures>
-            </elementValue>
-            <elementValue>
-              <value>04</value>
-              <measures>define Wx unit by self</measures>
-            </elementValue>
-          </time>
           <time>
             <startTime>2020-03-15T00:00:00+08:00</startTime>
             <endTime>2020-03-15T03:00:00+08:00</endTime>
@@ -1865,26 +1841,34 @@
               <measures>define Wx unit by self</measures>
             </elementValue>
           </time>
+          <time>
+            <startTime>2020-03-17T18:00:00+08:00</startTime>
+            <endTime>2020-03-17T21:00:00+08:00</endTime>
+            <elementValue>
+              <value>Partly cloudy</value>
+              <measures>define Wx text by self</measures>
+            </elementValue>
+            <elementValue>
+              <value>04</value>
+              <measures>define Wx unit by self</measures>
+            </elementValue>
+          </time>
+          <time>
+            <startTime>2020-03-17T21:00:00+08:00</startTime>
+            <endTime>2020-03-18T00:00:00+08:00</endTime>
+            <elementValue>
+              <value>Partly cloudy</value>
+              <measures>define Wx text by self</measures>
+            </elementValue>
+            <elementValue>
+              <value>04</value>
+              <measures>define Wx unit by self</measures>
+            </elementValue>
+          </time>
         </weatherElement>
         <weatherElement>
           <elementName>WeatherDescription</elementName>
           <description>weather description</description>
-          <time>
-            <startTime>2020-03-14T18:00:00+08:00</startTime>
-            <endTime>2020-03-14T21:00:00+08:00</endTime>
-            <elementValue>
-              <value>Partly cloudy. Temperature 17 centigrade. Cool. NorthEast wind 8m/s. Chance of precipitation 10%.</value>
-              <measures>NA</measures>
-            </elementValue>
-          </time>
-          <time>
-            <startTime>2020-03-14T21:00:00+08:00</startTime>
-            <endTime>2020-03-15T00:00:00+08:00</endTime>
-            <elementValue>
-              <value>Partly cloudy. Temperature 16 centigrade. Cool. NorthEast wind 7m/s. Chance of precipitation 10%.</value>
-              <measures>NA</measures>
-            </elementValue>
-          </time>
           <time>
             <startTime>2020-03-15T00:00:00+08:00</startTime>
             <endTime>2020-03-15T03:00:00+08:00</endTime>
@@ -2061,6 +2045,22 @@
               <measures>NA</measures>
             </elementValue>
           </time>
+          <time>
+            <startTime>2020-03-17T18:00:00+08:00</startTime>
+            <endTime>2020-03-17T21:00:00+08:00</endTime>
+            <elementValue>
+              <value>Partly cloudy. Temperature 20 centigrade. Comfortable. South wind 2m/s. Chance of precipitation 0%.</value>
+              <measures>NA</measures>
+            </elementValue>
+          </time>
+          <time>
+            <startTime>2020-03-17T21:00:00+08:00</startTime>
+            <endTime>2020-03-18T00:00:00+08:00</endTime>
+            <elementValue>
+              <value>Partly cloudy. Temperature 19 centigrade. Cool. South wind 1m/s. Chance of precipitation 0%.</value>
+              <measures>NA</measures>
+            </elementValue>
+          </time>
         </weatherElement>
       </location>
       <location>
@@ -2071,20 +2071,6 @@
         <weatherElement>
           <elementName>T</elementName>
           <description>temperature</description>
-          <time>
-            <dataTime>2020-03-14T18:00:00+08:00</dataTime>
-            <elementValue>
-              <value>17</value>
-              <measures>C</measures>
-            </elementValue>
-          </time>
-          <time>
-            <dataTime>2020-03-14T21:00:00+08:00</dataTime>
-            <elementValue>
-              <value>16</value>
-              <measures>C</measures>
-            </elementValue>
-          </time>
           <time>
             <dataTime>2020-03-15T00:00:00+08:00</dataTime>
             <elementValue>
@@ -2239,24 +2225,24 @@
               <measures>C</measures>
             </elementValue>
           </time>
+          <time>
+            <dataTime>2020-03-17T18:00:00+08:00</dataTime>
+            <elementValue>
+              <value>20</value>
+              <measures>C</measures>
+            </elementValue>
+          </time>
+          <time>
+            <dataTime>2020-03-17T21:00:00+08:00</dataTime>
+            <elementValue>
+              <value>19</value>
+              <measures>C</measures>
+            </elementValue>
+          </time>
         </weatherElement>
         <weatherElement>
           <elementName>Td</elementName>
           <description>dew point temperature</description>
-          <time>
-            <dataTime>2020-03-14T18:00:00+08:00</dataTime>
-            <elementValue>
-              <value>11</value>
-              <measures>C</measures>
-            </elementValue>
-          </time>
-          <time>
-            <dataTime>2020-03-14T21:00:00+08:00</dataTime>
-            <elementValue>
-              <value>11</value>
-              <measures>C</measures>
-            </elementValue>
-          </time>
           <time>
             <dataTime>2020-03-15T00:00:00+08:00</dataTime>
             <elementValue>
@@ -2411,24 +2397,24 @@
               <measures>C</measures>
             </elementValue>
           </time>
+          <time>
+            <dataTime>2020-03-17T18:00:00+08:00</dataTime>
+            <elementValue>
+              <value>16</value>
+              <measures>C</measures>
+            </elementValue>
+          </time>
+          <time>
+            <dataTime>2020-03-17T21:00:00+08:00</dataTime>
+            <elementValue>
+              <value>16</value>
+              <measures>C</measures>
+            </elementValue>
+          </time>
         </weatherElement>
         <weatherElement>
           <elementName>RH</elementName>
           <description>relative humidity</description>
-          <time>
-            <dataTime>2020-03-14T18:00:00+08:00</dataTime>
-            <elementValue>
-              <value>69</value>
-              <measures>%</measures>
-            </elementValue>
-          </time>
-          <time>
-            <dataTime>2020-03-14T21:00:00+08:00</dataTime>
-            <elementValue>
-              <value>74</value>
-              <measures>%</measures>
-            </elementValue>
-          </time>
           <time>
             <dataTime>2020-03-15T00:00:00+08:00</dataTime>
             <elementValue>
@@ -2583,18 +2569,24 @@
               <measures>%</measures>
             </elementValue>
           </time>
+          <time>
+            <dataTime>2020-03-17T18:00:00+08:00</dataTime>
+            <elementValue>
+              <value>75</value>
+              <measures>%</measures>
+            </elementValue>
+          </time>
+          <time>
+            <dataTime>2020-03-17T21:00:00+08:00</dataTime>
+            <elementValue>
+              <value>81</value>
+              <measures>%</measures>
+            </elementValue>
+          </time>
         </weatherElement>
         <weatherElement>
           <elementName>PoP6h</elementName>
           <description>6 hours probability of precipitation</description>
-          <time>
-            <startTime>2020-03-14T18:00:00+08:00</startTime>
-            <endTime>2020-03-15T00:00:00+08:00</endTime>
-            <elementValue>
-              <value>10</value>
-              <measures>%</measures>
-            </elementValue>
-          </time>
           <time>
             <startTime>2020-03-15T00:00:00+08:00</startTime>
             <endTime>2020-03-15T06:00:00+08:00</endTime>
@@ -2683,53 +2675,61 @@
               <measures>%</measures>
             </elementValue>
           </time>
+          <time>
+            <startTime>2020-03-17T18:00:00+08:00</startTime>
+            <endTime>2020-03-18T00:00:00+08:00</endTime>
+            <elementValue>
+              <value>0</value>
+              <measures>%</measures>
+            </elementValue>
+          </time>
         </weatherElement>
         <weatherElement>
           <elementName>PoP12h</elementName>
           <description>12 hours probability of precipitation</description>
           <time>
-            <startTime>2020-03-14T18:00:00+08:00</startTime>
-            <endTime>2020-03-15T06:00:00+08:00</endTime>
-            <elementValue>
-              <value>10</value>
-              <measures>%</measures>
-            </elementValue>
-          </time>
-          <time>
-            <startTime>2020-03-15T06:00:00+08:00</startTime>
-            <endTime>2020-03-15T18:00:00+08:00</endTime>
+            <startTime>2020-03-15T00:00:00+08:00</startTime>
+            <endTime>2020-03-15T12:00:00+08:00</endTime>
             <elementValue>
               <value>0</value>
               <measures>%</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2020-03-15T18:00:00+08:00</startTime>
-            <endTime>2020-03-16T06:00:00+08:00</endTime>
+            <startTime>2020-03-15T12:00:00+08:00</startTime>
+            <endTime>2020-03-16T00:00:00+08:00</endTime>
             <elementValue>
               <value>0</value>
               <measures>%</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2020-03-16T06:00:00+08:00</startTime>
-            <endTime>2020-03-16T18:00:00+08:00</endTime>
+            <startTime>2020-03-16T00:00:00+08:00</startTime>
+            <endTime>2020-03-16T12:00:00+08:00</endTime>
             <elementValue>
               <value>0</value>
               <measures>%</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2020-03-16T18:00:00+08:00</startTime>
-            <endTime>2020-03-17T06:00:00+08:00</endTime>
+            <startTime>2020-03-16T12:00:00+08:00</startTime>
+            <endTime>2020-03-17T00:00:00+08:00</endTime>
             <elementValue>
               <value>0</value>
               <measures>%</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2020-03-17T06:00:00+08:00</startTime>
-            <endTime>2020-03-17T18:00:00+08:00</endTime>
+            <startTime>2020-03-17T00:00:00+08:00</startTime>
+            <endTime>2020-03-17T12:00:00+08:00</endTime>
+            <elementValue>
+              <value>0</value>
+              <measures>%</measures>
+            </elementValue>
+          </time>
+          <time>
+            <startTime>2020-03-17T12:00:00+08:00</startTime>
+            <endTime>2020-03-18T00:00:00+08:00</endTime>
             <elementValue>
               <value>0</value>
               <measures>%</measures>
@@ -2739,20 +2739,6 @@
         <weatherElement>
           <elementName>WD</elementName>
           <description>wind direction</description>
-          <time>
-            <dataTime>2020-03-14T18:00:00+08:00</dataTime>
-            <elementValue>
-              <value>NE</value>
-              <measures>16 directions</measures>
-            </elementValue>
-          </time>
-          <time>
-            <dataTime>2020-03-14T21:00:00+08:00</dataTime>
-            <elementValue>
-              <value>NE</value>
-              <measures>16 directions</measures>
-            </elementValue>
-          </time>
           <time>
             <dataTime>2020-03-15T00:00:00+08:00</dataTime>
             <elementValue>
@@ -2907,32 +2893,24 @@
               <measures>16 directions</measures>
             </elementValue>
           </time>
+          <time>
+            <dataTime>2020-03-17T18:00:00+08:00</dataTime>
+            <elementValue>
+              <value>S</value>
+              <measures>16 directions</measures>
+            </elementValue>
+          </time>
+          <time>
+            <dataTime>2020-03-17T21:00:00+08:00</dataTime>
+            <elementValue>
+              <value>S</value>
+              <measures>16 directions</measures>
+            </elementValue>
+          </time>
         </weatherElement>
         <weatherElement>
           <elementName>WS</elementName>
           <description>wind speed</description>
-          <time>
-            <dataTime>2020-03-14T18:00:00+08:00</dataTime>
-            <elementValue>
-              <value>8</value>
-              <measures>m/s</measures>
-            </elementValue>
-            <elementValue>
-              <value>5</value>
-              <measures>Beaufort</measures>
-            </elementValue>
-          </time>
-          <time>
-            <dataTime>2020-03-14T21:00:00+08:00</dataTime>
-            <elementValue>
-              <value>8</value>
-              <measures>m/s</measures>
-            </elementValue>
-            <elementValue>
-              <value>4</value>
-              <measures>Beaufort</measures>
-            </elementValue>
-          </time>
           <time>
             <dataTime>2020-03-15T00:00:00+08:00</dataTime>
             <elementValue>
@@ -3175,32 +3153,32 @@
               <measures>Beaufort</measures>
             </elementValue>
           </time>
+          <time>
+            <dataTime>2020-03-17T18:00:00+08:00</dataTime>
+            <elementValue>
+              <value>2</value>
+              <measures>m/s</measures>
+            </elementValue>
+            <elementValue>
+              <value>&lt;= 1</value>
+              <measures>Beaufort</measures>
+            </elementValue>
+          </time>
+          <time>
+            <dataTime>2020-03-17T21:00:00+08:00</dataTime>
+            <elementValue>
+              <value>2</value>
+              <measures>m/s</measures>
+            </elementValue>
+            <elementValue>
+              <value>&lt;= 1</value>
+              <measures>Beaufort</measures>
+            </elementValue>
+          </time>
         </weatherElement>
         <weatherElement>
           <elementName>CI</elementName>
           <description>comfort index</description>
-          <time>
-            <dataTime>2020-03-14T18:00:00+08:00</dataTime>
-            <elementValue>
-              <value>16</value>
-              <measures>NA</measures>
-            </elementValue>
-            <elementValue>
-              <value>Cool</value>
-              <measures>define CI text by self</measures>
-            </elementValue>
-          </time>
-          <time>
-            <dataTime>2020-03-14T21:00:00+08:00</dataTime>
-            <elementValue>
-              <value>16</value>
-              <measures>NA</measures>
-            </elementValue>
-            <elementValue>
-              <value>Cool</value>
-              <measures>define CI text by self</measures>
-            </elementValue>
-          </time>
           <time>
             <dataTime>2020-03-15T00:00:00+08:00</dataTime>
             <elementValue>
@@ -3443,35 +3421,43 @@
               <measures>define CI text by self</measures>
             </elementValue>
           </time>
+          <time>
+            <dataTime>2020-03-17T18:00:00+08:00</dataTime>
+            <elementValue>
+              <value>19</value>
+              <measures>NA</measures>
+            </elementValue>
+            <elementValue>
+              <value>Comfortable</value>
+              <measures>define CI text by self</measures>
+            </elementValue>
+          </time>
+          <time>
+            <dataTime>2020-03-17T21:00:00+08:00</dataTime>
+            <elementValue>
+              <value>18</value>
+              <measures>NA</measures>
+            </elementValue>
+            <elementValue>
+              <value>Cool</value>
+              <measures>define CI text by self</measures>
+            </elementValue>
+          </time>
         </weatherElement>
         <weatherElement>
           <elementName>AT</elementName>
           <description>athletic temperature</description>
           <time>
-            <dataTime>2020-03-14T18:00:00+08:00</dataTime>
-            <elementValue>
-              <value>11</value>
-              <measures>C</measures>
-            </elementValue>
-          </time>
-          <time>
-            <dataTime>2020-03-14T21:00:00+08:00</dataTime>
-            <elementValue>
-              <value>11</value>
-              <measures>C</measures>
-            </elementValue>
-          </time>
-          <time>
             <dataTime>2020-03-15T00:00:00+08:00</dataTime>
             <elementValue>
-              <value>11</value>
+              <value>10</value>
               <measures>C</measures>
             </elementValue>
           </time>
           <time>
             <dataTime>2020-03-15T03:00:00+08:00</dataTime>
             <elementValue>
-              <value>12</value>
+              <value>11</value>
               <measures>C</measures>
             </elementValue>
           </time>
@@ -3615,34 +3601,24 @@
               <measures>C</measures>
             </elementValue>
           </time>
+          <time>
+            <dataTime>2020-03-17T18:00:00+08:00</dataTime>
+            <elementValue>
+              <value>19</value>
+              <measures>C</measures>
+            </elementValue>
+          </time>
+          <time>
+            <dataTime>2020-03-17T21:00:00+08:00</dataTime>
+            <elementValue>
+              <value>19</value>
+              <measures>C</measures>
+            </elementValue>
+          </time>
         </weatherElement>
         <weatherElement>
           <elementName>Wx</elementName>
           <description>weather</description>
-          <time>
-            <startTime>2020-03-14T18:00:00+08:00</startTime>
-            <endTime>2020-03-14T21:00:00+08:00</endTime>
-            <elementValue>
-              <value>Partly cloudy</value>
-              <measures>define Wx text by self</measures>
-            </elementValue>
-            <elementValue>
-              <value>04</value>
-              <measures>define Wx unit by self</measures>
-            </elementValue>
-          </time>
-          <time>
-            <startTime>2020-03-14T21:00:00+08:00</startTime>
-            <endTime>2020-03-15T00:00:00+08:00</endTime>
-            <elementValue>
-              <value>Partly cloudy</value>
-              <measures>define Wx text by self</measures>
-            </elementValue>
-            <elementValue>
-              <value>04</value>
-              <measures>define Wx unit by self</measures>
-            </elementValue>
-          </time>
           <time>
             <startTime>2020-03-15T00:00:00+08:00</startTime>
             <endTime>2020-03-15T03:00:00+08:00</endTime>
@@ -3907,26 +3883,34 @@
               <measures>define Wx unit by self</measures>
             </elementValue>
           </time>
+          <time>
+            <startTime>2020-03-17T18:00:00+08:00</startTime>
+            <endTime>2020-03-17T21:00:00+08:00</endTime>
+            <elementValue>
+              <value>Partly cloudy</value>
+              <measures>define Wx text by self</measures>
+            </elementValue>
+            <elementValue>
+              <value>04</value>
+              <measures>define Wx unit by self</measures>
+            </elementValue>
+          </time>
+          <time>
+            <startTime>2020-03-17T21:00:00+08:00</startTime>
+            <endTime>2020-03-18T00:00:00+08:00</endTime>
+            <elementValue>
+              <value>Partly cloudy</value>
+              <measures>define Wx text by self</measures>
+            </elementValue>
+            <elementValue>
+              <value>04</value>
+              <measures>define Wx unit by self</measures>
+            </elementValue>
+          </time>
         </weatherElement>
         <weatherElement>
           <elementName>WeatherDescription</elementName>
           <description>weather description</description>
-          <time>
-            <startTime>2020-03-14T18:00:00+08:00</startTime>
-            <endTime>2020-03-14T21:00:00+08:00</endTime>
-            <elementValue>
-              <value>Partly cloudy. Temperature 17 centigrade. Cool. NorthEast wind 8m/s. Chance of precipitation 10%.</value>
-              <measures>NA</measures>
-            </elementValue>
-          </time>
-          <time>
-            <startTime>2020-03-14T21:00:00+08:00</startTime>
-            <endTime>2020-03-15T00:00:00+08:00</endTime>
-            <elementValue>
-              <value>Partly cloudy. Temperature 16 centigrade. Cool. NorthEast wind 8m/s. Chance of precipitation 10%.</value>
-              <measures>NA</measures>
-            </elementValue>
-          </time>
           <time>
             <startTime>2020-03-15T00:00:00+08:00</startTime>
             <endTime>2020-03-15T03:00:00+08:00</endTime>
@@ -4103,6 +4087,22 @@
               <measures>NA</measures>
             </elementValue>
           </time>
+          <time>
+            <startTime>2020-03-17T18:00:00+08:00</startTime>
+            <endTime>2020-03-17T21:00:00+08:00</endTime>
+            <elementValue>
+              <value>Partly cloudy. Temperature 20 centigrade. Comfortable. South wind 2m/s. Chance of precipitation 0%.</value>
+              <measures>NA</measures>
+            </elementValue>
+          </time>
+          <time>
+            <startTime>2020-03-17T21:00:00+08:00</startTime>
+            <endTime>2020-03-18T00:00:00+08:00</endTime>
+            <elementValue>
+              <value>Partly cloudy. Temperature 19 centigrade. Cool. South wind 2m/s. Chance of precipitation 0%.</value>
+              <measures>NA</measures>
+            </elementValue>
+          </time>
         </weatherElement>
       </location>
       <location>
@@ -4114,20 +4114,6 @@
           <elementName>T</elementName>
           <description>temperature</description>
           <time>
-            <dataTime>2020-03-14T18:00:00+08:00</dataTime>
-            <elementValue>
-              <value>17</value>
-              <measures>C</measures>
-            </elementValue>
-          </time>
-          <time>
-            <dataTime>2020-03-14T21:00:00+08:00</dataTime>
-            <elementValue>
-              <value>16</value>
-              <measures>C</measures>
-            </elementValue>
-          </time>
-          <time>
             <dataTime>2020-03-15T00:00:00+08:00</dataTime>
             <elementValue>
               <value>15</value>
@@ -4137,7 +4123,7 @@
           <time>
             <dataTime>2020-03-15T03:00:00+08:00</dataTime>
             <elementValue>
-              <value>15</value>
+              <value>14</value>
               <measures>C</measures>
             </elementValue>
           </time>
@@ -4278,6 +4264,20 @@
             <dataTime>2020-03-17T15:00:00+08:00</dataTime>
             <elementValue>
               <value>22</value>
+              <measures>C</measures>
+            </elementValue>
+          </time>
+          <time>
+            <dataTime>2020-03-17T18:00:00+08:00</dataTime>
+            <elementValue>
+              <value>20</value>
+              <measures>C</measures>
+            </elementValue>
+          </time>
+          <time>
+            <dataTime>2020-03-17T21:00:00+08:00</dataTime>
+            <elementValue>
+              <value>18</value>
               <measures>C</measures>
             </elementValue>
           </time>
@@ -4286,20 +4286,6 @@
           <elementName>Td</elementName>
           <description>dew point temperature</description>
           <time>
-            <dataTime>2020-03-14T18:00:00+08:00</dataTime>
-            <elementValue>
-              <value>11</value>
-              <measures>C</measures>
-            </elementValue>
-          </time>
-          <time>
-            <dataTime>2020-03-14T21:00:00+08:00</dataTime>
-            <elementValue>
-              <value>11</value>
-              <measures>C</measures>
-            </elementValue>
-          </time>
-          <time>
             <dataTime>2020-03-15T00:00:00+08:00</dataTime>
             <elementValue>
               <value>10</value>
@@ -4448,6 +4434,20 @@
           </time>
           <time>
             <dataTime>2020-03-17T15:00:00+08:00</dataTime>
+            <elementValue>
+              <value>16</value>
+              <measures>C</measures>
+            </elementValue>
+          </time>
+          <time>
+            <dataTime>2020-03-17T18:00:00+08:00</dataTime>
+            <elementValue>
+              <value>16</value>
+              <measures>C</measures>
+            </elementValue>
+          </time>
+          <time>
+            <dataTime>2020-03-17T21:00:00+08:00</dataTime>
             <elementValue>
               <value>16</value>
               <measures>C</measures>
@@ -4457,20 +4457,6 @@
         <weatherElement>
           <elementName>RH</elementName>
           <description>relative humidity</description>
-          <time>
-            <dataTime>2020-03-14T18:00:00+08:00</dataTime>
-            <elementValue>
-              <value>68</value>
-              <measures>%</measures>
-            </elementValue>
-          </time>
-          <time>
-            <dataTime>2020-03-14T21:00:00+08:00</dataTime>
-            <elementValue>
-              <value>74</value>
-              <measures>%</measures>
-            </elementValue>
-          </time>
           <time>
             <dataTime>2020-03-15T00:00:00+08:00</dataTime>
             <elementValue>
@@ -4625,18 +4611,24 @@
               <measures>%</measures>
             </elementValue>
           </time>
+          <time>
+            <dataTime>2020-03-17T18:00:00+08:00</dataTime>
+            <elementValue>
+              <value>76</value>
+              <measures>%</measures>
+            </elementValue>
+          </time>
+          <time>
+            <dataTime>2020-03-17T21:00:00+08:00</dataTime>
+            <elementValue>
+              <value>83</value>
+              <measures>%</measures>
+            </elementValue>
+          </time>
         </weatherElement>
         <weatherElement>
           <elementName>PoP6h</elementName>
           <description>6 hours probability of precipitation</description>
-          <time>
-            <startTime>2020-03-14T18:00:00+08:00</startTime>
-            <endTime>2020-03-15T00:00:00+08:00</endTime>
-            <elementValue>
-              <value>10</value>
-              <measures>%</measures>
-            </elementValue>
-          </time>
           <time>
             <startTime>2020-03-15T00:00:00+08:00</startTime>
             <endTime>2020-03-15T06:00:00+08:00</endTime>
@@ -4725,53 +4717,61 @@
               <measures>%</measures>
             </elementValue>
           </time>
+          <time>
+            <startTime>2020-03-17T18:00:00+08:00</startTime>
+            <endTime>2020-03-18T00:00:00+08:00</endTime>
+            <elementValue>
+              <value>0</value>
+              <measures>%</measures>
+            </elementValue>
+          </time>
         </weatherElement>
         <weatherElement>
           <elementName>PoP12h</elementName>
           <description>12 hours probability of precipitation</description>
           <time>
-            <startTime>2020-03-14T18:00:00+08:00</startTime>
-            <endTime>2020-03-15T06:00:00+08:00</endTime>
-            <elementValue>
-              <value>10</value>
-              <measures>%</measures>
-            </elementValue>
-          </time>
-          <time>
-            <startTime>2020-03-15T06:00:00+08:00</startTime>
-            <endTime>2020-03-15T18:00:00+08:00</endTime>
+            <startTime>2020-03-15T00:00:00+08:00</startTime>
+            <endTime>2020-03-15T12:00:00+08:00</endTime>
             <elementValue>
               <value>0</value>
               <measures>%</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2020-03-15T18:00:00+08:00</startTime>
-            <endTime>2020-03-16T06:00:00+08:00</endTime>
+            <startTime>2020-03-15T12:00:00+08:00</startTime>
+            <endTime>2020-03-16T00:00:00+08:00</endTime>
             <elementValue>
               <value>0</value>
               <measures>%</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2020-03-16T06:00:00+08:00</startTime>
-            <endTime>2020-03-16T18:00:00+08:00</endTime>
+            <startTime>2020-03-16T00:00:00+08:00</startTime>
+            <endTime>2020-03-16T12:00:00+08:00</endTime>
             <elementValue>
               <value>0</value>
               <measures>%</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2020-03-16T18:00:00+08:00</startTime>
-            <endTime>2020-03-17T06:00:00+08:00</endTime>
+            <startTime>2020-03-16T12:00:00+08:00</startTime>
+            <endTime>2020-03-17T00:00:00+08:00</endTime>
             <elementValue>
               <value>0</value>
               <measures>%</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2020-03-17T06:00:00+08:00</startTime>
-            <endTime>2020-03-17T18:00:00+08:00</endTime>
+            <startTime>2020-03-17T00:00:00+08:00</startTime>
+            <endTime>2020-03-17T12:00:00+08:00</endTime>
+            <elementValue>
+              <value>0</value>
+              <measures>%</measures>
+            </elementValue>
+          </time>
+          <time>
+            <startTime>2020-03-17T12:00:00+08:00</startTime>
+            <endTime>2020-03-18T00:00:00+08:00</endTime>
             <elementValue>
               <value>0</value>
               <measures>%</measures>
@@ -4781,20 +4781,6 @@
         <weatherElement>
           <elementName>WD</elementName>
           <description>wind direction</description>
-          <time>
-            <dataTime>2020-03-14T18:00:00+08:00</dataTime>
-            <elementValue>
-              <value>NE</value>
-              <measures>16 directions</measures>
-            </elementValue>
-          </time>
-          <time>
-            <dataTime>2020-03-14T21:00:00+08:00</dataTime>
-            <elementValue>
-              <value>NE</value>
-              <measures>16 directions</measures>
-            </elementValue>
-          </time>
           <time>
             <dataTime>2020-03-15T00:00:00+08:00</dataTime>
             <elementValue>
@@ -4949,32 +4935,24 @@
               <measures>16 directions</measures>
             </elementValue>
           </time>
+          <time>
+            <dataTime>2020-03-17T18:00:00+08:00</dataTime>
+            <elementValue>
+              <value>S</value>
+              <measures>16 directions</measures>
+            </elementValue>
+          </time>
+          <time>
+            <dataTime>2020-03-17T21:00:00+08:00</dataTime>
+            <elementValue>
+              <value>S</value>
+              <measures>16 directions</measures>
+            </elementValue>
+          </time>
         </weatherElement>
         <weatherElement>
           <elementName>WS</elementName>
           <description>wind speed</description>
-          <time>
-            <dataTime>2020-03-14T18:00:00+08:00</dataTime>
-            <elementValue>
-              <value>9</value>
-              <measures>m/s</measures>
-            </elementValue>
-            <elementValue>
-              <value>5</value>
-              <measures>Beaufort</measures>
-            </elementValue>
-          </time>
-          <time>
-            <dataTime>2020-03-14T21:00:00+08:00</dataTime>
-            <elementValue>
-              <value>8</value>
-              <measures>m/s</measures>
-            </elementValue>
-            <elementValue>
-              <value>4</value>
-              <measures>Beaufort</measures>
-            </elementValue>
-          </time>
           <time>
             <dataTime>2020-03-15T00:00:00+08:00</dataTime>
             <elementValue>
@@ -5217,32 +5195,32 @@
               <measures>Beaufort</measures>
             </elementValue>
           </time>
+          <time>
+            <dataTime>2020-03-17T18:00:00+08:00</dataTime>
+            <elementValue>
+              <value>2</value>
+              <measures>m/s</measures>
+            </elementValue>
+            <elementValue>
+              <value>&lt;= 1</value>
+              <measures>Beaufort</measures>
+            </elementValue>
+          </time>
+          <time>
+            <dataTime>2020-03-17T21:00:00+08:00</dataTime>
+            <elementValue>
+              <value>2</value>
+              <measures>m/s</measures>
+            </elementValue>
+            <elementValue>
+              <value>&lt;= 1</value>
+              <measures>Beaufort</measures>
+            </elementValue>
+          </time>
         </weatherElement>
         <weatherElement>
           <elementName>CI</elementName>
           <description>comfort index</description>
-          <time>
-            <dataTime>2020-03-14T18:00:00+08:00</dataTime>
-            <elementValue>
-              <value>16</value>
-              <measures>NA</measures>
-            </elementValue>
-            <elementValue>
-              <value>Cool</value>
-              <measures>define CI text by self</measures>
-            </elementValue>
-          </time>
-          <time>
-            <dataTime>2020-03-14T21:00:00+08:00</dataTime>
-            <elementValue>
-              <value>16</value>
-              <measures>NA</measures>
-            </elementValue>
-            <elementValue>
-              <value>Cool</value>
-              <measures>define CI text by self</measures>
-            </elementValue>
-          </time>
           <time>
             <dataTime>2020-03-15T00:00:00+08:00</dataTime>
             <elementValue>
@@ -5261,7 +5239,7 @@
               <measures>NA</measures>
             </elementValue>
             <elementValue>
-              <value>Cool</value>
+              <value>Cold</value>
               <measures>define CI text by self</measures>
             </elementValue>
           </time>
@@ -5485,28 +5463,36 @@
               <measures>define CI text by self</measures>
             </elementValue>
           </time>
+          <time>
+            <dataTime>2020-03-17T18:00:00+08:00</dataTime>
+            <elementValue>
+              <value>19</value>
+              <measures>NA</measures>
+            </elementValue>
+            <elementValue>
+              <value>Comfortable</value>
+              <measures>define CI text by self</measures>
+            </elementValue>
+          </time>
+          <time>
+            <dataTime>2020-03-17T21:00:00+08:00</dataTime>
+            <elementValue>
+              <value>18</value>
+              <measures>NA</measures>
+            </elementValue>
+            <elementValue>
+              <value>Cool</value>
+              <measures>define CI text by self</measures>
+            </elementValue>
+          </time>
         </weatherElement>
         <weatherElement>
           <elementName>AT</elementName>
           <description>athletic temperature</description>
           <time>
-            <dataTime>2020-03-14T18:00:00+08:00</dataTime>
-            <elementValue>
-              <value>11</value>
-              <measures>C</measures>
-            </elementValue>
-          </time>
-          <time>
-            <dataTime>2020-03-14T21:00:00+08:00</dataTime>
-            <elementValue>
-              <value>11</value>
-              <measures>C</measures>
-            </elementValue>
-          </time>
-          <time>
             <dataTime>2020-03-15T00:00:00+08:00</dataTime>
             <elementValue>
-              <value>11</value>
+              <value>10</value>
               <measures>C</measures>
             </elementValue>
           </time>
@@ -5657,34 +5643,24 @@
               <measures>C</measures>
             </elementValue>
           </time>
+          <time>
+            <dataTime>2020-03-17T18:00:00+08:00</dataTime>
+            <elementValue>
+              <value>19</value>
+              <measures>C</measures>
+            </elementValue>
+          </time>
+          <time>
+            <dataTime>2020-03-17T21:00:00+08:00</dataTime>
+            <elementValue>
+              <value>19</value>
+              <measures>C</measures>
+            </elementValue>
+          </time>
         </weatherElement>
         <weatherElement>
           <elementName>Wx</elementName>
           <description>weather</description>
-          <time>
-            <startTime>2020-03-14T18:00:00+08:00</startTime>
-            <endTime>2020-03-14T21:00:00+08:00</endTime>
-            <elementValue>
-              <value>Partly cloudy</value>
-              <measures>define Wx text by self</measures>
-            </elementValue>
-            <elementValue>
-              <value>04</value>
-              <measures>define Wx unit by self</measures>
-            </elementValue>
-          </time>
-          <time>
-            <startTime>2020-03-14T21:00:00+08:00</startTime>
-            <endTime>2020-03-15T00:00:00+08:00</endTime>
-            <elementValue>
-              <value>Partly cloudy</value>
-              <measures>define Wx text by self</measures>
-            </elementValue>
-            <elementValue>
-              <value>04</value>
-              <measures>define Wx unit by self</measures>
-            </elementValue>
-          </time>
           <time>
             <startTime>2020-03-15T00:00:00+08:00</startTime>
             <endTime>2020-03-15T03:00:00+08:00</endTime>
@@ -5949,26 +5925,34 @@
               <measures>define Wx unit by self</measures>
             </elementValue>
           </time>
+          <time>
+            <startTime>2020-03-17T18:00:00+08:00</startTime>
+            <endTime>2020-03-17T21:00:00+08:00</endTime>
+            <elementValue>
+              <value>Partly cloudy</value>
+              <measures>define Wx text by self</measures>
+            </elementValue>
+            <elementValue>
+              <value>04</value>
+              <measures>define Wx unit by self</measures>
+            </elementValue>
+          </time>
+          <time>
+            <startTime>2020-03-17T21:00:00+08:00</startTime>
+            <endTime>2020-03-18T00:00:00+08:00</endTime>
+            <elementValue>
+              <value>Partly cloudy</value>
+              <measures>define Wx text by self</measures>
+            </elementValue>
+            <elementValue>
+              <value>04</value>
+              <measures>define Wx unit by self</measures>
+            </elementValue>
+          </time>
         </weatherElement>
         <weatherElement>
           <elementName>WeatherDescription</elementName>
           <description>weather description</description>
-          <time>
-            <startTime>2020-03-14T18:00:00+08:00</startTime>
-            <endTime>2020-03-14T21:00:00+08:00</endTime>
-            <elementValue>
-              <value>Partly cloudy. Temperature 17 centigrade. Cool. NorthEast wind 9m/s. Chance of precipitation 10%.</value>
-              <measures>NA</measures>
-            </elementValue>
-          </time>
-          <time>
-            <startTime>2020-03-14T21:00:00+08:00</startTime>
-            <endTime>2020-03-15T00:00:00+08:00</endTime>
-            <elementValue>
-              <value>Partly cloudy. Temperature 16 centigrade. Cool. NorthEast wind 8m/s. Chance of precipitation 10%.</value>
-              <measures>NA</measures>
-            </elementValue>
-          </time>
           <time>
             <startTime>2020-03-15T00:00:00+08:00</startTime>
             <endTime>2020-03-15T03:00:00+08:00</endTime>
@@ -5981,7 +5965,7 @@
             <startTime>2020-03-15T03:00:00+08:00</startTime>
             <endTime>2020-03-15T06:00:00+08:00</endTime>
             <elementValue>
-              <value>Partly cloudy. Temperature 15 centigrade. Cool. NorthEast wind 8m/s. Chance of precipitation 0%.</value>
+              <value>Partly cloudy. Temperature 14 centigrade. Cold. NorthEast wind 8m/s. Chance of precipitation 0%.</value>
               <measures>NA</measures>
             </elementValue>
           </time>
@@ -6142,6 +6126,22 @@
             <endTime>2020-03-17T18:00:00+08:00</endTime>
             <elementValue>
               <value>Partly cloudy. Temperature 22 centigrade. Comfortable. SouthWest wind 4m/s. Chance of precipitation 0%.</value>
+              <measures>NA</measures>
+            </elementValue>
+          </time>
+          <time>
+            <startTime>2020-03-17T18:00:00+08:00</startTime>
+            <endTime>2020-03-17T21:00:00+08:00</endTime>
+            <elementValue>
+              <value>Partly cloudy. Temperature 20 centigrade. Comfortable. South wind 2m/s. Chance of precipitation 0%.</value>
+              <measures>NA</measures>
+            </elementValue>
+          </time>
+          <time>
+            <startTime>2020-03-17T21:00:00+08:00</startTime>
+            <endTime>2020-03-18T00:00:00+08:00</endTime>
+            <elementValue>
+              <value>Partly cloudy. Temperature 18 centigrade. Cool. South wind 2m/s. Chance of precipitation 0%.</value>
               <measures>NA</measures>
             </elementValue>
           </time>

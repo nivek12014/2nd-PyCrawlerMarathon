@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <cwbopendata xmlns="urn:cwb:gov:tw:cwbcommon:0.1">
-  <identifier>ffbff60f-6570-4699-908b-8fe5f90495e7</identifier>
+  <identifier>9a80adc2-f675-47f1-9656-799c5281fe42</identifier>
   <sender>weather@cwb.gov.tw</sender>
-  <sent>2020-03-14T16:57:42+08:00</sent>
+  <sent>2020-03-15T00:21:28+08:00</sent>
   <status>Actual</status>
   <scope>Public</scope>
   <msgType>Issue</msgType>
@@ -12,12 +12,12 @@
     <datasetInfo>
       <datasetDescription>臺灣各縣市鄉鎮未來3天(72小時)逐3小時天氣預報</datasetDescription>
       <datasetLanguage>zh-TW</datasetLanguage>
-      <issueTime>2020-03-14T17:00:00+08:00</issueTime>
+      <issueTime>2020-03-14T23:00:00+08:00</issueTime>
       <validTime>
-        <startTime>2020-03-14T18:00:00+08:00</startTime>
-        <endTime>2020-03-17T17:00:00+08:00</endTime>
+        <startTime>2020-03-15T00:00:00+08:00</startTime>
+        <endTime>2020-03-17T23:00:00+08:00</endTime>
       </validTime>
-      <update>2020-03-14T16:57:42+08:00</update>
+      <update>2020-03-15T00:21:28+08:00</update>
     </datasetInfo>
     <locations>
       <locationsName>新竹市</locationsName>
@@ -29,20 +29,6 @@
         <weatherElement>
           <elementName>T</elementName>
           <description>溫度</description>
-          <time>
-            <dataTime>2020-03-14T18:00:00+08:00</dataTime>
-            <elementValue>
-              <value>17</value>
-              <measures>攝氏度</measures>
-            </elementValue>
-          </time>
-          <time>
-            <dataTime>2020-03-14T21:00:00+08:00</dataTime>
-            <elementValue>
-              <value>16</value>
-              <measures>攝氏度</measures>
-            </elementValue>
-          </time>
           <time>
             <dataTime>2020-03-15T00:00:00+08:00</dataTime>
             <elementValue>
@@ -197,24 +183,24 @@
               <measures>攝氏度</measures>
             </elementValue>
           </time>
+          <time>
+            <dataTime>2020-03-17T18:00:00+08:00</dataTime>
+            <elementValue>
+              <value>20</value>
+              <measures>攝氏度</measures>
+            </elementValue>
+          </time>
+          <time>
+            <dataTime>2020-03-17T21:00:00+08:00</dataTime>
+            <elementValue>
+              <value>19</value>
+              <measures>攝氏度</measures>
+            </elementValue>
+          </time>
         </weatherElement>
         <weatherElement>
           <elementName>Td</elementName>
           <description>露點溫度</description>
-          <time>
-            <dataTime>2020-03-14T18:00:00+08:00</dataTime>
-            <elementValue>
-              <value>11</value>
-              <measures>攝氏度</measures>
-            </elementValue>
-          </time>
-          <time>
-            <dataTime>2020-03-14T21:00:00+08:00</dataTime>
-            <elementValue>
-              <value>11</value>
-              <measures>攝氏度</measures>
-            </elementValue>
-          </time>
           <time>
             <dataTime>2020-03-15T00:00:00+08:00</dataTime>
             <elementValue>
@@ -369,24 +355,24 @@
               <measures>攝氏度</measures>
             </elementValue>
           </time>
+          <time>
+            <dataTime>2020-03-17T18:00:00+08:00</dataTime>
+            <elementValue>
+              <value>15</value>
+              <measures>攝氏度</measures>
+            </elementValue>
+          </time>
+          <time>
+            <dataTime>2020-03-17T21:00:00+08:00</dataTime>
+            <elementValue>
+              <value>15</value>
+              <measures>攝氏度</measures>
+            </elementValue>
+          </time>
         </weatherElement>
         <weatherElement>
           <elementName>RH</elementName>
           <description>相對濕度</description>
-          <time>
-            <dataTime>2020-03-14T18:00:00+08:00</dataTime>
-            <elementValue>
-              <value>69</value>
-              <measures>百分比</measures>
-            </elementValue>
-          </time>
-          <time>
-            <dataTime>2020-03-14T21:00:00+08:00</dataTime>
-            <elementValue>
-              <value>73</value>
-              <measures>百分比</measures>
-            </elementValue>
-          </time>
           <time>
             <dataTime>2020-03-15T00:00:00+08:00</dataTime>
             <elementValue>
@@ -541,18 +527,24 @@
               <measures>百分比</measures>
             </elementValue>
           </time>
+          <time>
+            <dataTime>2020-03-17T18:00:00+08:00</dataTime>
+            <elementValue>
+              <value>74</value>
+              <measures>百分比</measures>
+            </elementValue>
+          </time>
+          <time>
+            <dataTime>2020-03-17T21:00:00+08:00</dataTime>
+            <elementValue>
+              <value>79</value>
+              <measures>百分比</measures>
+            </elementValue>
+          </time>
         </weatherElement>
         <weatherElement>
           <elementName>PoP6h</elementName>
           <description>6小時降雨機率</description>
-          <time>
-            <startTime>2020-03-14T18:00:00+08:00</startTime>
-            <endTime>2020-03-15T00:00:00+08:00</endTime>
-            <elementValue>
-              <value>10</value>
-              <measures>百分比</measures>
-            </elementValue>
-          </time>
           <time>
             <startTime>2020-03-15T00:00:00+08:00</startTime>
             <endTime>2020-03-15T06:00:00+08:00</endTime>
@@ -641,53 +633,61 @@
               <measures>百分比</measures>
             </elementValue>
           </time>
+          <time>
+            <startTime>2020-03-17T18:00:00+08:00</startTime>
+            <endTime>2020-03-18T00:00:00+08:00</endTime>
+            <elementValue>
+              <value>0</value>
+              <measures>百分比</measures>
+            </elementValue>
+          </time>
         </weatherElement>
         <weatherElement>
           <elementName>PoP12h</elementName>
           <description>12小時降雨機率</description>
           <time>
-            <startTime>2020-03-14T18:00:00+08:00</startTime>
-            <endTime>2020-03-15T06:00:00+08:00</endTime>
-            <elementValue>
-              <value>10</value>
-              <measures>百分比</measures>
-            </elementValue>
-          </time>
-          <time>
-            <startTime>2020-03-15T06:00:00+08:00</startTime>
-            <endTime>2020-03-15T18:00:00+08:00</endTime>
+            <startTime>2020-03-15T00:00:00+08:00</startTime>
+            <endTime>2020-03-15T12:00:00+08:00</endTime>
             <elementValue>
               <value>0</value>
               <measures>百分比</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2020-03-15T18:00:00+08:00</startTime>
-            <endTime>2020-03-16T06:00:00+08:00</endTime>
+            <startTime>2020-03-15T12:00:00+08:00</startTime>
+            <endTime>2020-03-16T00:00:00+08:00</endTime>
             <elementValue>
               <value>0</value>
               <measures>百分比</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2020-03-16T06:00:00+08:00</startTime>
-            <endTime>2020-03-16T18:00:00+08:00</endTime>
+            <startTime>2020-03-16T00:00:00+08:00</startTime>
+            <endTime>2020-03-16T12:00:00+08:00</endTime>
             <elementValue>
               <value>0</value>
               <measures>百分比</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2020-03-16T18:00:00+08:00</startTime>
-            <endTime>2020-03-17T06:00:00+08:00</endTime>
+            <startTime>2020-03-16T12:00:00+08:00</startTime>
+            <endTime>2020-03-17T00:00:00+08:00</endTime>
             <elementValue>
               <value>0</value>
               <measures>百分比</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2020-03-17T06:00:00+08:00</startTime>
-            <endTime>2020-03-17T18:00:00+08:00</endTime>
+            <startTime>2020-03-17T00:00:00+08:00</startTime>
+            <endTime>2020-03-17T12:00:00+08:00</endTime>
+            <elementValue>
+              <value>0</value>
+              <measures>百分比</measures>
+            </elementValue>
+          </time>
+          <time>
+            <startTime>2020-03-17T12:00:00+08:00</startTime>
+            <endTime>2020-03-18T00:00:00+08:00</endTime>
             <elementValue>
               <value>0</value>
               <measures>百分比</measures>
@@ -697,20 +697,6 @@
         <weatherElement>
           <elementName>WD</elementName>
           <description>風向</description>
-          <time>
-            <dataTime>2020-03-14T18:00:00+08:00</dataTime>
-            <elementValue>
-              <value>東北風</value>
-              <measures>16方位</measures>
-            </elementValue>
-          </time>
-          <time>
-            <dataTime>2020-03-14T21:00:00+08:00</dataTime>
-            <elementValue>
-              <value>東北風</value>
-              <measures>16方位</measures>
-            </elementValue>
-          </time>
           <time>
             <dataTime>2020-03-15T00:00:00+08:00</dataTime>
             <elementValue>
@@ -865,32 +851,24 @@
               <measures>16方位</measures>
             </elementValue>
           </time>
+          <time>
+            <dataTime>2020-03-17T18:00:00+08:00</dataTime>
+            <elementValue>
+              <value>偏南風</value>
+              <measures>16方位</measures>
+            </elementValue>
+          </time>
+          <time>
+            <dataTime>2020-03-17T21:00:00+08:00</dataTime>
+            <elementValue>
+              <value>偏南風</value>
+              <measures>16方位</measures>
+            </elementValue>
+          </time>
         </weatherElement>
         <weatherElement>
           <elementName>WS</elementName>
           <description>風速</description>
-          <time>
-            <dataTime>2020-03-14T18:00:00+08:00</dataTime>
-            <elementValue>
-              <value>8</value>
-              <measures>公尺/秒</measures>
-            </elementValue>
-            <elementValue>
-              <value>4</value>
-              <measures>蒲福風級</measures>
-            </elementValue>
-          </time>
-          <time>
-            <dataTime>2020-03-14T21:00:00+08:00</dataTime>
-            <elementValue>
-              <value>7</value>
-              <measures>公尺/秒</measures>
-            </elementValue>
-            <elementValue>
-              <value>4</value>
-              <measures>蒲福風級</measures>
-            </elementValue>
-          </time>
           <time>
             <dataTime>2020-03-15T00:00:00+08:00</dataTime>
             <elementValue>
@@ -1133,32 +1111,32 @@
               <measures>蒲福風級</measures>
             </elementValue>
           </time>
+          <time>
+            <dataTime>2020-03-17T18:00:00+08:00</dataTime>
+            <elementValue>
+              <value>2</value>
+              <measures>公尺/秒</measures>
+            </elementValue>
+            <elementValue>
+              <value>&lt;= 1</value>
+              <measures>蒲福風級</measures>
+            </elementValue>
+          </time>
+          <time>
+            <dataTime>2020-03-17T21:00:00+08:00</dataTime>
+            <elementValue>
+              <value>1</value>
+              <measures>公尺/秒</measures>
+            </elementValue>
+            <elementValue>
+              <value>&lt;= 1</value>
+              <measures>蒲福風級</measures>
+            </elementValue>
+          </time>
         </weatherElement>
         <weatherElement>
           <elementName>CI</elementName>
           <description>舒適度指數</description>
-          <time>
-            <dataTime>2020-03-14T18:00:00+08:00</dataTime>
-            <elementValue>
-              <value>16</value>
-              <measures>NA</measures>
-            </elementValue>
-            <elementValue>
-              <value>稍有寒意</value>
-              <measures>自定義 CI 文字</measures>
-            </elementValue>
-          </time>
-          <time>
-            <dataTime>2020-03-14T21:00:00+08:00</dataTime>
-            <elementValue>
-              <value>15</value>
-              <measures>NA</measures>
-            </elementValue>
-            <elementValue>
-              <value>稍有寒意</value>
-              <measures>自定義 CI 文字</measures>
-            </elementValue>
-          </time>
           <time>
             <dataTime>2020-03-15T00:00:00+08:00</dataTime>
             <elementValue>
@@ -1401,24 +1379,32 @@
               <measures>自定義 CI 文字</measures>
             </elementValue>
           </time>
+          <time>
+            <dataTime>2020-03-17T18:00:00+08:00</dataTime>
+            <elementValue>
+              <value>19</value>
+              <measures>NA</measures>
+            </elementValue>
+            <elementValue>
+              <value>舒適</value>
+              <measures>自定義 CI 文字</measures>
+            </elementValue>
+          </time>
+          <time>
+            <dataTime>2020-03-17T21:00:00+08:00</dataTime>
+            <elementValue>
+              <value>18</value>
+              <measures>NA</measures>
+            </elementValue>
+            <elementValue>
+              <value>稍有寒意</value>
+              <measures>自定義 CI 文字</measures>
+            </elementValue>
+          </time>
         </weatherElement>
         <weatherElement>
           <elementName>AT</elementName>
           <description>體感溫度</description>
-          <time>
-            <dataTime>2020-03-14T18:00:00+08:00</dataTime>
-            <elementValue>
-              <value>11</value>
-              <measures>攝氏度</measures>
-            </elementValue>
-          </time>
-          <time>
-            <dataTime>2020-03-14T21:00:00+08:00</dataTime>
-            <elementValue>
-              <value>11</value>
-              <measures>攝氏度</measures>
-            </elementValue>
-          </time>
           <time>
             <dataTime>2020-03-15T00:00:00+08:00</dataTime>
             <elementValue>
@@ -1573,34 +1559,24 @@
               <measures>攝氏度</measures>
             </elementValue>
           </time>
+          <time>
+            <dataTime>2020-03-17T18:00:00+08:00</dataTime>
+            <elementValue>
+              <value>19</value>
+              <measures>攝氏度</measures>
+            </elementValue>
+          </time>
+          <time>
+            <dataTime>2020-03-17T21:00:00+08:00</dataTime>
+            <elementValue>
+              <value>19</value>
+              <measures>攝氏度</measures>
+            </elementValue>
+          </time>
         </weatherElement>
         <weatherElement>
           <elementName>Wx</elementName>
           <description>天氣現象</description>
-          <time>
-            <startTime>2020-03-14T18:00:00+08:00</startTime>
-            <endTime>2020-03-14T21:00:00+08:00</endTime>
-            <elementValue>
-              <value>多雲</value>
-              <measures>自定義 Wx 文字</measures>
-            </elementValue>
-            <elementValue>
-              <value>04</value>
-              <measures>自定義 Wx 單位</measures>
-            </elementValue>
-          </time>
-          <time>
-            <startTime>2020-03-14T21:00:00+08:00</startTime>
-            <endTime>2020-03-15T00:00:00+08:00</endTime>
-            <elementValue>
-              <value>多雲</value>
-              <measures>自定義 Wx 文字</measures>
-            </elementValue>
-            <elementValue>
-              <value>04</value>
-              <measures>自定義 Wx 單位</measures>
-            </elementValue>
-          </time>
           <time>
             <startTime>2020-03-15T00:00:00+08:00</startTime>
             <endTime>2020-03-15T03:00:00+08:00</endTime>
@@ -1865,26 +1841,34 @@
               <measures>自定義 Wx 單位</measures>
             </elementValue>
           </time>
+          <time>
+            <startTime>2020-03-17T18:00:00+08:00</startTime>
+            <endTime>2020-03-17T21:00:00+08:00</endTime>
+            <elementValue>
+              <value>多雲</value>
+              <measures>自定義 Wx 文字</measures>
+            </elementValue>
+            <elementValue>
+              <value>04</value>
+              <measures>自定義 Wx 單位</measures>
+            </elementValue>
+          </time>
+          <time>
+            <startTime>2020-03-17T21:00:00+08:00</startTime>
+            <endTime>2020-03-18T00:00:00+08:00</endTime>
+            <elementValue>
+              <value>多雲</value>
+              <measures>自定義 Wx 文字</measures>
+            </elementValue>
+            <elementValue>
+              <value>04</value>
+              <measures>自定義 Wx 單位</measures>
+            </elementValue>
+          </time>
         </weatherElement>
         <weatherElement>
           <elementName>WeatherDescription</elementName>
           <description>天氣預報綜合描述</description>
-          <time>
-            <startTime>2020-03-14T18:00:00+08:00</startTime>
-            <endTime>2020-03-14T21:00:00+08:00</endTime>
-            <elementValue>
-              <value>多雲。降雨機率 10%。溫度攝氏17度。稍有寒意。東北風 平均風速3-4級(每秒8公尺)。相對濕度69%。</value>
-              <measures>NA</measures>
-            </elementValue>
-          </time>
-          <time>
-            <startTime>2020-03-14T21:00:00+08:00</startTime>
-            <endTime>2020-03-15T00:00:00+08:00</endTime>
-            <elementValue>
-              <value>多雲。降雨機率 10%。溫度攝氏16度。稍有寒意。東北風 平均風速3-4級(每秒7公尺)。相對濕度73%。</value>
-              <measures>NA</measures>
-            </elementValue>
-          </time>
           <time>
             <startTime>2020-03-15T00:00:00+08:00</startTime>
             <endTime>2020-03-15T03:00:00+08:00</endTime>
@@ -2061,6 +2045,22 @@
               <measures>NA</measures>
             </elementValue>
           </time>
+          <time>
+            <startTime>2020-03-17T18:00:00+08:00</startTime>
+            <endTime>2020-03-17T21:00:00+08:00</endTime>
+            <elementValue>
+              <value>多雲。降雨機率 0%。溫度攝氏20度。舒適。偏南風 平均風速&lt;= 1級(每秒2公尺)。相對濕度74%。</value>
+              <measures>NA</measures>
+            </elementValue>
+          </time>
+          <time>
+            <startTime>2020-03-17T21:00:00+08:00</startTime>
+            <endTime>2020-03-18T00:00:00+08:00</endTime>
+            <elementValue>
+              <value>多雲。降雨機率 0%。溫度攝氏19度。稍有寒意。偏南風 平均風速&lt;= 1級(每秒1公尺)。相對濕度79%。</value>
+              <measures>NA</measures>
+            </elementValue>
+          </time>
         </weatherElement>
       </location>
       <location>
@@ -2071,20 +2071,6 @@
         <weatherElement>
           <elementName>T</elementName>
           <description>溫度</description>
-          <time>
-            <dataTime>2020-03-14T18:00:00+08:00</dataTime>
-            <elementValue>
-              <value>17</value>
-              <measures>攝氏度</measures>
-            </elementValue>
-          </time>
-          <time>
-            <dataTime>2020-03-14T21:00:00+08:00</dataTime>
-            <elementValue>
-              <value>16</value>
-              <measures>攝氏度</measures>
-            </elementValue>
-          </time>
           <time>
             <dataTime>2020-03-15T00:00:00+08:00</dataTime>
             <elementValue>
@@ -2239,24 +2225,24 @@
               <measures>攝氏度</measures>
             </elementValue>
           </time>
+          <time>
+            <dataTime>2020-03-17T18:00:00+08:00</dataTime>
+            <elementValue>
+              <value>20</value>
+              <measures>攝氏度</measures>
+            </elementValue>
+          </time>
+          <time>
+            <dataTime>2020-03-17T21:00:00+08:00</dataTime>
+            <elementValue>
+              <value>19</value>
+              <measures>攝氏度</measures>
+            </elementValue>
+          </time>
         </weatherElement>
         <weatherElement>
           <elementName>Td</elementName>
           <description>露點溫度</description>
-          <time>
-            <dataTime>2020-03-14T18:00:00+08:00</dataTime>
-            <elementValue>
-              <value>11</value>
-              <measures>攝氏度</measures>
-            </elementValue>
-          </time>
-          <time>
-            <dataTime>2020-03-14T21:00:00+08:00</dataTime>
-            <elementValue>
-              <value>11</value>
-              <measures>攝氏度</measures>
-            </elementValue>
-          </time>
           <time>
             <dataTime>2020-03-15T00:00:00+08:00</dataTime>
             <elementValue>
@@ -2411,24 +2397,24 @@
               <measures>攝氏度</measures>
             </elementValue>
           </time>
+          <time>
+            <dataTime>2020-03-17T18:00:00+08:00</dataTime>
+            <elementValue>
+              <value>16</value>
+              <measures>攝氏度</measures>
+            </elementValue>
+          </time>
+          <time>
+            <dataTime>2020-03-17T21:00:00+08:00</dataTime>
+            <elementValue>
+              <value>16</value>
+              <measures>攝氏度</measures>
+            </elementValue>
+          </time>
         </weatherElement>
         <weatherElement>
           <elementName>RH</elementName>
           <description>相對濕度</description>
-          <time>
-            <dataTime>2020-03-14T18:00:00+08:00</dataTime>
-            <elementValue>
-              <value>69</value>
-              <measures>百分比</measures>
-            </elementValue>
-          </time>
-          <time>
-            <dataTime>2020-03-14T21:00:00+08:00</dataTime>
-            <elementValue>
-              <value>74</value>
-              <measures>百分比</measures>
-            </elementValue>
-          </time>
           <time>
             <dataTime>2020-03-15T00:00:00+08:00</dataTime>
             <elementValue>
@@ -2583,18 +2569,24 @@
               <measures>百分比</measures>
             </elementValue>
           </time>
+          <time>
+            <dataTime>2020-03-17T18:00:00+08:00</dataTime>
+            <elementValue>
+              <value>75</value>
+              <measures>百分比</measures>
+            </elementValue>
+          </time>
+          <time>
+            <dataTime>2020-03-17T21:00:00+08:00</dataTime>
+            <elementValue>
+              <value>81</value>
+              <measures>百分比</measures>
+            </elementValue>
+          </time>
         </weatherElement>
         <weatherElement>
           <elementName>PoP6h</elementName>
           <description>6小時降雨機率</description>
-          <time>
-            <startTime>2020-03-14T18:00:00+08:00</startTime>
-            <endTime>2020-03-15T00:00:00+08:00</endTime>
-            <elementValue>
-              <value>10</value>
-              <measures>百分比</measures>
-            </elementValue>
-          </time>
           <time>
             <startTime>2020-03-15T00:00:00+08:00</startTime>
             <endTime>2020-03-15T06:00:00+08:00</endTime>
@@ -2683,53 +2675,61 @@
               <measures>百分比</measures>
             </elementValue>
           </time>
+          <time>
+            <startTime>2020-03-17T18:00:00+08:00</startTime>
+            <endTime>2020-03-18T00:00:00+08:00</endTime>
+            <elementValue>
+              <value>0</value>
+              <measures>百分比</measures>
+            </elementValue>
+          </time>
         </weatherElement>
         <weatherElement>
           <elementName>PoP12h</elementName>
           <description>12小時降雨機率</description>
           <time>
-            <startTime>2020-03-14T18:00:00+08:00</startTime>
-            <endTime>2020-03-15T06:00:00+08:00</endTime>
-            <elementValue>
-              <value>10</value>
-              <measures>百分比</measures>
-            </elementValue>
-          </time>
-          <time>
-            <startTime>2020-03-15T06:00:00+08:00</startTime>
-            <endTime>2020-03-15T18:00:00+08:00</endTime>
+            <startTime>2020-03-15T00:00:00+08:00</startTime>
+            <endTime>2020-03-15T12:00:00+08:00</endTime>
             <elementValue>
               <value>0</value>
               <measures>百分比</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2020-03-15T18:00:00+08:00</startTime>
-            <endTime>2020-03-16T06:00:00+08:00</endTime>
+            <startTime>2020-03-15T12:00:00+08:00</startTime>
+            <endTime>2020-03-16T00:00:00+08:00</endTime>
             <elementValue>
               <value>0</value>
               <measures>百分比</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2020-03-16T06:00:00+08:00</startTime>
-            <endTime>2020-03-16T18:00:00+08:00</endTime>
+            <startTime>2020-03-16T00:00:00+08:00</startTime>
+            <endTime>2020-03-16T12:00:00+08:00</endTime>
             <elementValue>
               <value>0</value>
               <measures>百分比</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2020-03-16T18:00:00+08:00</startTime>
-            <endTime>2020-03-17T06:00:00+08:00</endTime>
+            <startTime>2020-03-16T12:00:00+08:00</startTime>
+            <endTime>2020-03-17T00:00:00+08:00</endTime>
             <elementValue>
               <value>0</value>
               <measures>百分比</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2020-03-17T06:00:00+08:00</startTime>
-            <endTime>2020-03-17T18:00:00+08:00</endTime>
+            <startTime>2020-03-17T00:00:00+08:00</startTime>
+            <endTime>2020-03-17T12:00:00+08:00</endTime>
+            <elementValue>
+              <value>0</value>
+              <measures>百分比</measures>
+            </elementValue>
+          </time>
+          <time>
+            <startTime>2020-03-17T12:00:00+08:00</startTime>
+            <endTime>2020-03-18T00:00:00+08:00</endTime>
             <elementValue>
               <value>0</value>
               <measures>百分比</measures>
@@ -2739,20 +2739,6 @@
         <weatherElement>
           <elementName>WD</elementName>
           <description>風向</description>
-          <time>
-            <dataTime>2020-03-14T18:00:00+08:00</dataTime>
-            <elementValue>
-              <value>東北風</value>
-              <measures>16方位</measures>
-            </elementValue>
-          </time>
-          <time>
-            <dataTime>2020-03-14T21:00:00+08:00</dataTime>
-            <elementValue>
-              <value>東北風</value>
-              <measures>16方位</measures>
-            </elementValue>
-          </time>
           <time>
             <dataTime>2020-03-15T00:00:00+08:00</dataTime>
             <elementValue>
@@ -2907,32 +2893,24 @@
               <measures>16方位</measures>
             </elementValue>
           </time>
+          <time>
+            <dataTime>2020-03-17T18:00:00+08:00</dataTime>
+            <elementValue>
+              <value>偏南風</value>
+              <measures>16方位</measures>
+            </elementValue>
+          </time>
+          <time>
+            <dataTime>2020-03-17T21:00:00+08:00</dataTime>
+            <elementValue>
+              <value>偏南風</value>
+              <measures>16方位</measures>
+            </elementValue>
+          </time>
         </weatherElement>
         <weatherElement>
           <elementName>WS</elementName>
           <description>風速</description>
-          <time>
-            <dataTime>2020-03-14T18:00:00+08:00</dataTime>
-            <elementValue>
-              <value>8</value>
-              <measures>公尺/秒</measures>
-            </elementValue>
-            <elementValue>
-              <value>5</value>
-              <measures>蒲福風級</measures>
-            </elementValue>
-          </time>
-          <time>
-            <dataTime>2020-03-14T21:00:00+08:00</dataTime>
-            <elementValue>
-              <value>8</value>
-              <measures>公尺/秒</measures>
-            </elementValue>
-            <elementValue>
-              <value>4</value>
-              <measures>蒲福風級</measures>
-            </elementValue>
-          </time>
           <time>
             <dataTime>2020-03-15T00:00:00+08:00</dataTime>
             <elementValue>
@@ -3175,32 +3153,32 @@
               <measures>蒲福風級</measures>
             </elementValue>
           </time>
+          <time>
+            <dataTime>2020-03-17T18:00:00+08:00</dataTime>
+            <elementValue>
+              <value>2</value>
+              <measures>公尺/秒</measures>
+            </elementValue>
+            <elementValue>
+              <value>&lt;= 1</value>
+              <measures>蒲福風級</measures>
+            </elementValue>
+          </time>
+          <time>
+            <dataTime>2020-03-17T21:00:00+08:00</dataTime>
+            <elementValue>
+              <value>2</value>
+              <measures>公尺/秒</measures>
+            </elementValue>
+            <elementValue>
+              <value>&lt;= 1</value>
+              <measures>蒲福風級</measures>
+            </elementValue>
+          </time>
         </weatherElement>
         <weatherElement>
           <elementName>CI</elementName>
           <description>舒適度指數</description>
-          <time>
-            <dataTime>2020-03-14T18:00:00+08:00</dataTime>
-            <elementValue>
-              <value>16</value>
-              <measures>NA</measures>
-            </elementValue>
-            <elementValue>
-              <value>稍有寒意</value>
-              <measures>自定義 CI 文字</measures>
-            </elementValue>
-          </time>
-          <time>
-            <dataTime>2020-03-14T21:00:00+08:00</dataTime>
-            <elementValue>
-              <value>16</value>
-              <measures>NA</measures>
-            </elementValue>
-            <elementValue>
-              <value>稍有寒意</value>
-              <measures>自定義 CI 文字</measures>
-            </elementValue>
-          </time>
           <time>
             <dataTime>2020-03-15T00:00:00+08:00</dataTime>
             <elementValue>
@@ -3443,35 +3421,43 @@
               <measures>自定義 CI 文字</measures>
             </elementValue>
           </time>
+          <time>
+            <dataTime>2020-03-17T18:00:00+08:00</dataTime>
+            <elementValue>
+              <value>19</value>
+              <measures>NA</measures>
+            </elementValue>
+            <elementValue>
+              <value>舒適</value>
+              <measures>自定義 CI 文字</measures>
+            </elementValue>
+          </time>
+          <time>
+            <dataTime>2020-03-17T21:00:00+08:00</dataTime>
+            <elementValue>
+              <value>18</value>
+              <measures>NA</measures>
+            </elementValue>
+            <elementValue>
+              <value>稍有寒意</value>
+              <measures>自定義 CI 文字</measures>
+            </elementValue>
+          </time>
         </weatherElement>
         <weatherElement>
           <elementName>AT</elementName>
           <description>體感溫度</description>
           <time>
-            <dataTime>2020-03-14T18:00:00+08:00</dataTime>
-            <elementValue>
-              <value>11</value>
-              <measures>攝氏度</measures>
-            </elementValue>
-          </time>
-          <time>
-            <dataTime>2020-03-14T21:00:00+08:00</dataTime>
-            <elementValue>
-              <value>11</value>
-              <measures>攝氏度</measures>
-            </elementValue>
-          </time>
-          <time>
             <dataTime>2020-03-15T00:00:00+08:00</dataTime>
             <elementValue>
-              <value>11</value>
+              <value>10</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
           <time>
             <dataTime>2020-03-15T03:00:00+08:00</dataTime>
             <elementValue>
-              <value>12</value>
+              <value>11</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
@@ -3615,34 +3601,24 @@
               <measures>攝氏度</measures>
             </elementValue>
           </time>
+          <time>
+            <dataTime>2020-03-17T18:00:00+08:00</dataTime>
+            <elementValue>
+              <value>19</value>
+              <measures>攝氏度</measures>
+            </elementValue>
+          </time>
+          <time>
+            <dataTime>2020-03-17T21:00:00+08:00</dataTime>
+            <elementValue>
+              <value>19</value>
+              <measures>攝氏度</measures>
+            </elementValue>
+          </time>
         </weatherElement>
         <weatherElement>
           <elementName>Wx</elementName>
           <description>天氣現象</description>
-          <time>
-            <startTime>2020-03-14T18:00:00+08:00</startTime>
-            <endTime>2020-03-14T21:00:00+08:00</endTime>
-            <elementValue>
-              <value>多雲</value>
-              <measures>自定義 Wx 文字</measures>
-            </elementValue>
-            <elementValue>
-              <value>04</value>
-              <measures>自定義 Wx 單位</measures>
-            </elementValue>
-          </time>
-          <time>
-            <startTime>2020-03-14T21:00:00+08:00</startTime>
-            <endTime>2020-03-15T00:00:00+08:00</endTime>
-            <elementValue>
-              <value>多雲</value>
-              <measures>自定義 Wx 文字</measures>
-            </elementValue>
-            <elementValue>
-              <value>04</value>
-              <measures>自定義 Wx 單位</measures>
-            </elementValue>
-          </time>
           <time>
             <startTime>2020-03-15T00:00:00+08:00</startTime>
             <endTime>2020-03-15T03:00:00+08:00</endTime>
@@ -3907,26 +3883,34 @@
               <measures>自定義 Wx 單位</measures>
             </elementValue>
           </time>
+          <time>
+            <startTime>2020-03-17T18:00:00+08:00</startTime>
+            <endTime>2020-03-17T21:00:00+08:00</endTime>
+            <elementValue>
+              <value>多雲</value>
+              <measures>自定義 Wx 文字</measures>
+            </elementValue>
+            <elementValue>
+              <value>04</value>
+              <measures>自定義 Wx 單位</measures>
+            </elementValue>
+          </time>
+          <time>
+            <startTime>2020-03-17T21:00:00+08:00</startTime>
+            <endTime>2020-03-18T00:00:00+08:00</endTime>
+            <elementValue>
+              <value>多雲</value>
+              <measures>自定義 Wx 文字</measures>
+            </elementValue>
+            <elementValue>
+              <value>04</value>
+              <measures>自定義 Wx 單位</measures>
+            </elementValue>
+          </time>
         </weatherElement>
         <weatherElement>
           <elementName>WeatherDescription</elementName>
           <description>天氣預報綜合描述</description>
-          <time>
-            <startTime>2020-03-14T18:00:00+08:00</startTime>
-            <endTime>2020-03-14T21:00:00+08:00</endTime>
-            <elementValue>
-              <value>多雲。降雨機率 10%。溫度攝氏17度。稍有寒意。東北風 平均風速4-5級(每秒8公尺)。相對濕度69%。</value>
-              <measures>NA</measures>
-            </elementValue>
-          </time>
-          <time>
-            <startTime>2020-03-14T21:00:00+08:00</startTime>
-            <endTime>2020-03-15T00:00:00+08:00</endTime>
-            <elementValue>
-              <value>多雲。降雨機率 10%。溫度攝氏16度。稍有寒意。東北風 平均風速3-4級(每秒8公尺)。相對濕度74%。</value>
-              <measures>NA</measures>
-            </elementValue>
-          </time>
           <time>
             <startTime>2020-03-15T00:00:00+08:00</startTime>
             <endTime>2020-03-15T03:00:00+08:00</endTime>
@@ -4103,6 +4087,22 @@
               <measures>NA</measures>
             </elementValue>
           </time>
+          <time>
+            <startTime>2020-03-17T18:00:00+08:00</startTime>
+            <endTime>2020-03-17T21:00:00+08:00</endTime>
+            <elementValue>
+              <value>多雲。降雨機率 0%。溫度攝氏20度。舒適。偏南風 平均風速&lt;= 1級(每秒2公尺)。相對濕度75%。</value>
+              <measures>NA</measures>
+            </elementValue>
+          </time>
+          <time>
+            <startTime>2020-03-17T21:00:00+08:00</startTime>
+            <endTime>2020-03-18T00:00:00+08:00</endTime>
+            <elementValue>
+              <value>多雲。降雨機率 0%。溫度攝氏19度。稍有寒意。偏南風 平均風速&lt;= 1級(每秒2公尺)。相對濕度81%。</value>
+              <measures>NA</measures>
+            </elementValue>
+          </time>
         </weatherElement>
       </location>
       <location>
@@ -4114,20 +4114,6 @@
           <elementName>T</elementName>
           <description>溫度</description>
           <time>
-            <dataTime>2020-03-14T18:00:00+08:00</dataTime>
-            <elementValue>
-              <value>17</value>
-              <measures>攝氏度</measures>
-            </elementValue>
-          </time>
-          <time>
-            <dataTime>2020-03-14T21:00:00+08:00</dataTime>
-            <elementValue>
-              <value>16</value>
-              <measures>攝氏度</measures>
-            </elementValue>
-          </time>
-          <time>
             <dataTime>2020-03-15T00:00:00+08:00</dataTime>
             <elementValue>
               <value>15</value>
@@ -4137,7 +4123,7 @@
           <time>
             <dataTime>2020-03-15T03:00:00+08:00</dataTime>
             <elementValue>
-              <value>15</value>
+              <value>14</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
@@ -4278,6 +4264,20 @@
             <dataTime>2020-03-17T15:00:00+08:00</dataTime>
             <elementValue>
               <value>22</value>
+              <measures>攝氏度</measures>
+            </elementValue>
+          </time>
+          <time>
+            <dataTime>2020-03-17T18:00:00+08:00</dataTime>
+            <elementValue>
+              <value>20</value>
+              <measures>攝氏度</measures>
+            </elementValue>
+          </time>
+          <time>
+            <dataTime>2020-03-17T21:00:00+08:00</dataTime>
+            <elementValue>
+              <value>18</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
@@ -4286,20 +4286,6 @@
           <elementName>Td</elementName>
           <description>露點溫度</description>
           <time>
-            <dataTime>2020-03-14T18:00:00+08:00</dataTime>
-            <elementValue>
-              <value>11</value>
-              <measures>攝氏度</measures>
-            </elementValue>
-          </time>
-          <time>
-            <dataTime>2020-03-14T21:00:00+08:00</dataTime>
-            <elementValue>
-              <value>11</value>
-              <measures>攝氏度</measures>
-            </elementValue>
-          </time>
-          <time>
             <dataTime>2020-03-15T00:00:00+08:00</dataTime>
             <elementValue>
               <value>10</value>
@@ -4448,6 +4434,20 @@
           </time>
           <time>
             <dataTime>2020-03-17T15:00:00+08:00</dataTime>
+            <elementValue>
+              <value>16</value>
+              <measures>攝氏度</measures>
+            </elementValue>
+          </time>
+          <time>
+            <dataTime>2020-03-17T18:00:00+08:00</dataTime>
+            <elementValue>
+              <value>16</value>
+              <measures>攝氏度</measures>
+            </elementValue>
+          </time>
+          <time>
+            <dataTime>2020-03-17T21:00:00+08:00</dataTime>
             <elementValue>
               <value>16</value>
               <measures>攝氏度</measures>
@@ -4457,20 +4457,6 @@
         <weatherElement>
           <elementName>RH</elementName>
           <description>相對濕度</description>
-          <time>
-            <dataTime>2020-03-14T18:00:00+08:00</dataTime>
-            <elementValue>
-              <value>68</value>
-              <measures>百分比</measures>
-            </elementValue>
-          </time>
-          <time>
-            <dataTime>2020-03-14T21:00:00+08:00</dataTime>
-            <elementValue>
-              <value>74</value>
-              <measures>百分比</measures>
-            </elementValue>
-          </time>
           <time>
             <dataTime>2020-03-15T00:00:00+08:00</dataTime>
             <elementValue>
@@ -4625,18 +4611,24 @@
               <measures>百分比</measures>
             </elementValue>
           </time>
+          <time>
+            <dataTime>2020-03-17T18:00:00+08:00</dataTime>
+            <elementValue>
+              <value>76</value>
+              <measures>百分比</measures>
+            </elementValue>
+          </time>
+          <time>
+            <dataTime>2020-03-17T21:00:00+08:00</dataTime>
+            <elementValue>
+              <value>83</value>
+              <measures>百分比</measures>
+            </elementValue>
+          </time>
         </weatherElement>
         <weatherElement>
           <elementName>PoP6h</elementName>
           <description>6小時降雨機率</description>
-          <time>
-            <startTime>2020-03-14T18:00:00+08:00</startTime>
-            <endTime>2020-03-15T00:00:00+08:00</endTime>
-            <elementValue>
-              <value>10</value>
-              <measures>百分比</measures>
-            </elementValue>
-          </time>
           <time>
             <startTime>2020-03-15T00:00:00+08:00</startTime>
             <endTime>2020-03-15T06:00:00+08:00</endTime>
@@ -4725,53 +4717,61 @@
               <measures>百分比</measures>
             </elementValue>
           </time>
+          <time>
+            <startTime>2020-03-17T18:00:00+08:00</startTime>
+            <endTime>2020-03-18T00:00:00+08:00</endTime>
+            <elementValue>
+              <value>0</value>
+              <measures>百分比</measures>
+            </elementValue>
+          </time>
         </weatherElement>
         <weatherElement>
           <elementName>PoP12h</elementName>
           <description>12小時降雨機率</description>
           <time>
-            <startTime>2020-03-14T18:00:00+08:00</startTime>
-            <endTime>2020-03-15T06:00:00+08:00</endTime>
-            <elementValue>
-              <value>10</value>
-              <measures>百分比</measures>
-            </elementValue>
-          </time>
-          <time>
-            <startTime>2020-03-15T06:00:00+08:00</startTime>
-            <endTime>2020-03-15T18:00:00+08:00</endTime>
+            <startTime>2020-03-15T00:00:00+08:00</startTime>
+            <endTime>2020-03-15T12:00:00+08:00</endTime>
             <elementValue>
               <value>0</value>
               <measures>百分比</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2020-03-15T18:00:00+08:00</startTime>
-            <endTime>2020-03-16T06:00:00+08:00</endTime>
+            <startTime>2020-03-15T12:00:00+08:00</startTime>
+            <endTime>2020-03-16T00:00:00+08:00</endTime>
             <elementValue>
               <value>0</value>
               <measures>百分比</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2020-03-16T06:00:00+08:00</startTime>
-            <endTime>2020-03-16T18:00:00+08:00</endTime>
+            <startTime>2020-03-16T00:00:00+08:00</startTime>
+            <endTime>2020-03-16T12:00:00+08:00</endTime>
             <elementValue>
               <value>0</value>
               <measures>百分比</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2020-03-16T18:00:00+08:00</startTime>
-            <endTime>2020-03-17T06:00:00+08:00</endTime>
+            <startTime>2020-03-16T12:00:00+08:00</startTime>
+            <endTime>2020-03-17T00:00:00+08:00</endTime>
             <elementValue>
               <value>0</value>
               <measures>百分比</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2020-03-17T06:00:00+08:00</startTime>
-            <endTime>2020-03-17T18:00:00+08:00</endTime>
+            <startTime>2020-03-17T00:00:00+08:00</startTime>
+            <endTime>2020-03-17T12:00:00+08:00</endTime>
+            <elementValue>
+              <value>0</value>
+              <measures>百分比</measures>
+            </elementValue>
+          </time>
+          <time>
+            <startTime>2020-03-17T12:00:00+08:00</startTime>
+            <endTime>2020-03-18T00:00:00+08:00</endTime>
             <elementValue>
               <value>0</value>
               <measures>百分比</measures>
@@ -4781,20 +4781,6 @@
         <weatherElement>
           <elementName>WD</elementName>
           <description>風向</description>
-          <time>
-            <dataTime>2020-03-14T18:00:00+08:00</dataTime>
-            <elementValue>
-              <value>東北風</value>
-              <measures>16方位</measures>
-            </elementValue>
-          </time>
-          <time>
-            <dataTime>2020-03-14T21:00:00+08:00</dataTime>
-            <elementValue>
-              <value>東北風</value>
-              <measures>16方位</measures>
-            </elementValue>
-          </time>
           <time>
             <dataTime>2020-03-15T00:00:00+08:00</dataTime>
             <elementValue>
@@ -4949,32 +4935,24 @@
               <measures>16方位</measures>
             </elementValue>
           </time>
+          <time>
+            <dataTime>2020-03-17T18:00:00+08:00</dataTime>
+            <elementValue>
+              <value>偏南風</value>
+              <measures>16方位</measures>
+            </elementValue>
+          </time>
+          <time>
+            <dataTime>2020-03-17T21:00:00+08:00</dataTime>
+            <elementValue>
+              <value>偏南風</value>
+              <measures>16方位</measures>
+            </elementValue>
+          </time>
         </weatherElement>
         <weatherElement>
           <elementName>WS</elementName>
           <description>風速</description>
-          <time>
-            <dataTime>2020-03-14T18:00:00+08:00</dataTime>
-            <elementValue>
-              <value>9</value>
-              <measures>公尺/秒</measures>
-            </elementValue>
-            <elementValue>
-              <value>5</value>
-              <measures>蒲福風級</measures>
-            </elementValue>
-          </time>
-          <time>
-            <dataTime>2020-03-14T21:00:00+08:00</dataTime>
-            <elementValue>
-              <value>8</value>
-              <measures>公尺/秒</measures>
-            </elementValue>
-            <elementValue>
-              <value>4</value>
-              <measures>蒲福風級</measures>
-            </elementValue>
-          </time>
           <time>
             <dataTime>2020-03-15T00:00:00+08:00</dataTime>
             <elementValue>
@@ -5217,32 +5195,32 @@
               <measures>蒲福風級</measures>
             </elementValue>
           </time>
+          <time>
+            <dataTime>2020-03-17T18:00:00+08:00</dataTime>
+            <elementValue>
+              <value>2</value>
+              <measures>公尺/秒</measures>
+            </elementValue>
+            <elementValue>
+              <value>&lt;= 1</value>
+              <measures>蒲福風級</measures>
+            </elementValue>
+          </time>
+          <time>
+            <dataTime>2020-03-17T21:00:00+08:00</dataTime>
+            <elementValue>
+              <value>2</value>
+              <measures>公尺/秒</measures>
+            </elementValue>
+            <elementValue>
+              <value>&lt;= 1</value>
+              <measures>蒲福風級</measures>
+            </elementValue>
+          </time>
         </weatherElement>
         <weatherElement>
           <elementName>CI</elementName>
           <description>舒適度指數</description>
-          <time>
-            <dataTime>2020-03-14T18:00:00+08:00</dataTime>
-            <elementValue>
-              <value>16</value>
-              <measures>NA</measures>
-            </elementValue>
-            <elementValue>
-              <value>稍有寒意</value>
-              <measures>自定義 CI 文字</measures>
-            </elementValue>
-          </time>
-          <time>
-            <dataTime>2020-03-14T21:00:00+08:00</dataTime>
-            <elementValue>
-              <value>16</value>
-              <measures>NA</measures>
-            </elementValue>
-            <elementValue>
-              <value>稍有寒意</value>
-              <measures>自定義 CI 文字</measures>
-            </elementValue>
-          </time>
           <time>
             <dataTime>2020-03-15T00:00:00+08:00</dataTime>
             <elementValue>
@@ -5261,7 +5239,7 @@
               <measures>NA</measures>
             </elementValue>
             <elementValue>
-              <value>稍有寒意</value>
+              <value>寒冷</value>
               <measures>自定義 CI 文字</measures>
             </elementValue>
           </time>
@@ -5485,28 +5463,36 @@
               <measures>自定義 CI 文字</measures>
             </elementValue>
           </time>
+          <time>
+            <dataTime>2020-03-17T18:00:00+08:00</dataTime>
+            <elementValue>
+              <value>19</value>
+              <measures>NA</measures>
+            </elementValue>
+            <elementValue>
+              <value>舒適</value>
+              <measures>自定義 CI 文字</measures>
+            </elementValue>
+          </time>
+          <time>
+            <dataTime>2020-03-17T21:00:00+08:00</dataTime>
+            <elementValue>
+              <value>18</value>
+              <measures>NA</measures>
+            </elementValue>
+            <elementValue>
+              <value>稍有寒意</value>
+              <measures>自定義 CI 文字</measures>
+            </elementValue>
+          </time>
         </weatherElement>
         <weatherElement>
           <elementName>AT</elementName>
           <description>體感溫度</description>
           <time>
-            <dataTime>2020-03-14T18:00:00+08:00</dataTime>
-            <elementValue>
-              <value>11</value>
-              <measures>攝氏度</measures>
-            </elementValue>
-          </time>
-          <time>
-            <dataTime>2020-03-14T21:00:00+08:00</dataTime>
-            <elementValue>
-              <value>11</value>
-              <measures>攝氏度</measures>
-            </elementValue>
-          </time>
-          <time>
             <dataTime>2020-03-15T00:00:00+08:00</dataTime>
             <elementValue>
-              <value>11</value>
+              <value>10</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
@@ -5657,34 +5643,24 @@
               <measures>攝氏度</measures>
             </elementValue>
           </time>
+          <time>
+            <dataTime>2020-03-17T18:00:00+08:00</dataTime>
+            <elementValue>
+              <value>19</value>
+              <measures>攝氏度</measures>
+            </elementValue>
+          </time>
+          <time>
+            <dataTime>2020-03-17T21:00:00+08:00</dataTime>
+            <elementValue>
+              <value>19</value>
+              <measures>攝氏度</measures>
+            </elementValue>
+          </time>
         </weatherElement>
         <weatherElement>
           <elementName>Wx</elementName>
           <description>天氣現象</description>
-          <time>
-            <startTime>2020-03-14T18:00:00+08:00</startTime>
-            <endTime>2020-03-14T21:00:00+08:00</endTime>
-            <elementValue>
-              <value>多雲</value>
-              <measures>自定義 Wx 文字</measures>
-            </elementValue>
-            <elementValue>
-              <value>04</value>
-              <measures>自定義 Wx 單位</measures>
-            </elementValue>
-          </time>
-          <time>
-            <startTime>2020-03-14T21:00:00+08:00</startTime>
-            <endTime>2020-03-15T00:00:00+08:00</endTime>
-            <elementValue>
-              <value>多雲</value>
-              <measures>自定義 Wx 文字</measures>
-            </elementValue>
-            <elementValue>
-              <value>04</value>
-              <measures>自定義 Wx 單位</measures>
-            </elementValue>
-          </time>
           <time>
             <startTime>2020-03-15T00:00:00+08:00</startTime>
             <endTime>2020-03-15T03:00:00+08:00</endTime>
@@ -5949,26 +5925,34 @@
               <measures>自定義 Wx 單位</measures>
             </elementValue>
           </time>
+          <time>
+            <startTime>2020-03-17T18:00:00+08:00</startTime>
+            <endTime>2020-03-17T21:00:00+08:00</endTime>
+            <elementValue>
+              <value>多雲</value>
+              <measures>自定義 Wx 文字</measures>
+            </elementValue>
+            <elementValue>
+              <value>04</value>
+              <measures>自定義 Wx 單位</measures>
+            </elementValue>
+          </time>
+          <time>
+            <startTime>2020-03-17T21:00:00+08:00</startTime>
+            <endTime>2020-03-18T00:00:00+08:00</endTime>
+            <elementValue>
+              <value>多雲</value>
+              <measures>自定義 Wx 文字</measures>
+            </elementValue>
+            <elementValue>
+              <value>04</value>
+              <measures>自定義 Wx 單位</measures>
+            </elementValue>
+          </time>
         </weatherElement>
         <weatherElement>
           <elementName>WeatherDescription</elementName>
           <description>天氣預報綜合描述</description>
-          <time>
-            <startTime>2020-03-14T18:00:00+08:00</startTime>
-            <endTime>2020-03-14T21:00:00+08:00</endTime>
-            <elementValue>
-              <value>多雲。降雨機率 10%。溫度攝氏17度。稍有寒意。東北風 平均風速4-5級(每秒9公尺)。相對濕度68%。</value>
-              <measures>NA</measures>
-            </elementValue>
-          </time>
-          <time>
-            <startTime>2020-03-14T21:00:00+08:00</startTime>
-            <endTime>2020-03-15T00:00:00+08:00</endTime>
-            <elementValue>
-              <value>多雲。降雨機率 10%。溫度攝氏16度。稍有寒意。東北風 平均風速3-4級(每秒8公尺)。相對濕度74%。</value>
-              <measures>NA</measures>
-            </elementValue>
-          </time>
           <time>
             <startTime>2020-03-15T00:00:00+08:00</startTime>
             <endTime>2020-03-15T03:00:00+08:00</endTime>
@@ -5981,7 +5965,7 @@
             <startTime>2020-03-15T03:00:00+08:00</startTime>
             <endTime>2020-03-15T06:00:00+08:00</endTime>
             <elementValue>
-              <value>多雲。降雨機率 0%。溫度攝氏15度。稍有寒意。東北風 平均風速4-5級(每秒8公尺)。相對濕度76%。</value>
+              <value>多雲。降雨機率 0%。溫度攝氏14度。寒冷。東北風 平均風速4-5級(每秒8公尺)。相對濕度76%。</value>
               <measures>NA</measures>
             </elementValue>
           </time>
@@ -6142,6 +6126,22 @@
             <endTime>2020-03-17T18:00:00+08:00</endTime>
             <elementValue>
               <value>多雲。降雨機率 0%。溫度攝氏22度。舒適。西南風 平均風速2-3級(每秒4公尺)。相對濕度70%。</value>
+              <measures>NA</measures>
+            </elementValue>
+          </time>
+          <time>
+            <startTime>2020-03-17T18:00:00+08:00</startTime>
+            <endTime>2020-03-17T21:00:00+08:00</endTime>
+            <elementValue>
+              <value>多雲。降雨機率 0%。溫度攝氏20度。舒適。偏南風 平均風速&lt;= 1級(每秒2公尺)。相對濕度76%。</value>
+              <measures>NA</measures>
+            </elementValue>
+          </time>
+          <time>
+            <startTime>2020-03-17T21:00:00+08:00</startTime>
+            <endTime>2020-03-18T00:00:00+08:00</endTime>
+            <elementValue>
+              <value>多雲。降雨機率 0%。溫度攝氏18度。稍有寒意。偏南風 平均風速&lt;= 1級(每秒2公尺)。相對濕度83%。</value>
               <measures>NA</measures>
             </elementValue>
           </time>

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <cwbopendata xmlns="urn:cwb:gov:tw:cwbcommon:0.1">
-  <identifier>7eb842bf-8c0b-4819-8357-96ae8e589547</identifier>
+  <identifier>d319c442-5359-4b46-93d7-ede0c40b2d7e</identifier>
   <sender>weather@cwb.gov.tw</sender>
-  <sent>2020-03-14T16:59:39+08:00</sent>
+  <sent>2020-03-15T00:23:08+08:00</sent>
   <status>Actual</status>
   <scope>Public</scope>
   <msgType>Issue</msgType>
@@ -12,12 +12,12 @@
     <datasetInfo>
       <datasetDescription>臺灣各縣市鄉鎮未來1週逐24小時天氣預報</datasetDescription>
       <datasetLanguage>zh-TW</datasetLanguage>
-      <issueTime>2020-03-14T17:00:00+08:00</issueTime>
+      <issueTime>2020-03-14T23:00:00+08:00</issueTime>
       <validTime>
-        <startTime>2020-03-14T18:00:00+08:00</startTime>
-        <endTime>2020-03-22T17:00:00+08:00</endTime>
+        <startTime>2020-03-15T00:00:00+08:00</startTime>
+        <endTime>2020-03-22T23:00:00+08:00</endTime>
       </validTime>
-      <update>2020-03-14T16:59:39+08:00</update>
+      <update>2020-03-15T00:23:08+08:00</update>
     </datasetInfo>
     <locations>
       <locationsName>臺南市</locationsName>
@@ -16233,7 +16233,7 @@
             <startTime>2020-03-15T00:00:00+08:00</startTime>
             <endTime>2020-03-16T00:00:00+08:00</endTime>
             <elementValue>
-              <value>12</value>
+              <value>11</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
@@ -32943,7 +32943,7 @@
             <startTime>2020-03-15T00:00:00+08:00</startTime>
             <endTime>2020-03-16T00:00:00+08:00</endTime>
             <elementValue>
-              <value>18</value>
+              <value>17</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
@@ -33627,7 +33627,7 @@
             <startTime>2020-03-15T00:00:00+08:00</startTime>
             <endTime>2020-03-16T00:00:00+08:00</endTime>
             <elementValue>
-              <value>晴時多雲。降雨機率 0%。溫度攝氏18至26度。稍有寒意至舒適。偏北風 風速5級(每秒8公尺)。相對濕度50%。</value>
+              <value>晴時多雲。降雨機率 0%。溫度攝氏17至26度。稍有寒意至舒適。偏北風 風速5級(每秒8公尺)。相對濕度50%。</value>
               <measures>NA</measures>
             </elementValue>
           </time>
@@ -35913,7 +35913,7 @@
             <startTime>2020-03-15T00:00:00+08:00</startTime>
             <endTime>2020-03-16T00:00:00+08:00</endTime>
             <elementValue>
-              <value>18</value>
+              <value>17</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
@@ -36597,7 +36597,7 @@
             <startTime>2020-03-15T00:00:00+08:00</startTime>
             <endTime>2020-03-16T00:00:00+08:00</endTime>
             <elementValue>
-              <value>晴時多雲。降雨機率 0%。溫度攝氏18至26度。稍有寒意至舒適。偏北風 風速5級(每秒8公尺)。相對濕度50%。</value>
+              <value>晴時多雲。降雨機率 0%。溫度攝氏17至26度。稍有寒意至舒適。偏北風 風速5級(每秒8公尺)。相對濕度50%。</value>
               <measures>NA</measures>
             </elementValue>
           </time>

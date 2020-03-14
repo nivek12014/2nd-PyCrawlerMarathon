@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <cwbopendata xmlns="urn:cwb:gov:tw:cwbcommon:0.1">
-  <identifier>a2c5da40-c9f2-40c4-be9c-79793db4e0d7</identifier>
+  <identifier>b3bae9eb-49a9-48f2-a5a6-9469f93abd4e</identifier>
   <sender>weather@cwb.gov.tw</sender>
-  <sent>2020-03-14T16:59:33+08:00</sent>
+  <sent>2020-03-15T00:23:03+08:00</sent>
   <status>Actual</status>
   <scope>Public</scope>
   <msgType>Issue</msgType>
@@ -12,12 +12,12 @@
     <datasetInfo>
       <datasetDescription>Seven Days Weather Forecast of 368 townships</datasetDescription>
       <datasetLanguage>EN</datasetLanguage>
-      <issueTime>2020-03-14T17:00:00+08:00</issueTime>
+      <issueTime>2020-03-14T23:00:00+08:00</issueTime>
       <validTime>
-        <startTime>2020-03-14T18:00:00+08:00</startTime>
-        <endTime>2020-03-22T17:00:00+08:00</endTime>
+        <startTime>2020-03-15T00:00:00+08:00</startTime>
+        <endTime>2020-03-22T23:00:00+08:00</endTime>
       </validTime>
-      <update>2020-03-14T16:59:33+08:00</update>
+      <update>2020-03-15T00:23:03+08:00</update>
     </datasetInfo>
     <locations>
       <locationsName>Kaohsiung City</locationsName>
@@ -33,7 +33,7 @@
             <startTime>2020-03-15T00:00:00+08:00</startTime>
             <endTime>2020-03-16T00:00:00+08:00</endTime>
             <elementValue>
-              <value>22</value>
+              <value>21</value>
               <measures>C</measures>
             </elementValue>
           </time>
@@ -1023,7 +1023,7 @@
             <startTime>2020-03-15T00:00:00+08:00</startTime>
             <endTime>2020-03-16T00:00:00+08:00</endTime>
             <elementValue>
-              <value>22</value>
+              <value>21</value>
               <measures>C</measures>
             </elementValue>
           </time>
@@ -5973,7 +5973,7 @@
             <startTime>2020-03-15T00:00:00+08:00</startTime>
             <endTime>2020-03-16T00:00:00+08:00</endTime>
             <elementValue>
-              <value>22</value>
+              <value>21</value>
               <measures>C</measures>
             </elementValue>
           </time>
@@ -8943,7 +8943,7 @@
             <startTime>2020-03-15T00:00:00+08:00</startTime>
             <endTime>2020-03-16T00:00:00+08:00</endTime>
             <elementValue>
-              <value>22</value>
+              <value>21</value>
               <measures>C</measures>
             </elementValue>
           </time>
@@ -10923,7 +10923,7 @@
             <startTime>2020-03-15T00:00:00+08:00</startTime>
             <endTime>2020-03-16T00:00:00+08:00</endTime>
             <elementValue>
-              <value>22</value>
+              <value>21</value>
               <measures>C</measures>
             </elementValue>
           </time>
@@ -15243,7 +15243,7 @@
             <startTime>2020-03-15T00:00:00+08:00</startTime>
             <endTime>2020-03-16T00:00:00+08:00</endTime>
             <elementValue>
-              <value>17</value>
+              <value>16</value>
               <measures>C</measures>
             </elementValue>
           </time>
@@ -28743,7 +28743,7 @@
             <startTime>2020-03-15T00:00:00+08:00</startTime>
             <endTime>2020-03-16T00:00:00+08:00</endTime>
             <elementValue>
-              <value>21</value>
+              <value>20</value>
               <measures>C</measures>
             </elementValue>
           </time>
@@ -28983,7 +28983,7 @@
             <startTime>2020-03-15T00:00:00+08:00</startTime>
             <endTime>2020-03-16T00:00:00+08:00</endTime>
             <elementValue>
-              <value>18</value>
+              <value>17</value>
               <measures>C</measures>
             </elementValue>
           </time>
@@ -29667,7 +29667,7 @@
             <startTime>2020-03-15T00:00:00+08:00</startTime>
             <endTime>2020-03-16T00:00:00+08:00</endTime>
             <elementValue>
-              <value>Partly clear. Temperature between 18 and 26 centigrade. Cool~Comfortable. S wind 4m/s. Chance of precipitation 0%.</value>
+              <value>Partly clear. Temperature between 17 and 26 centigrade. Cool~Comfortable. S wind 4m/s. Chance of precipitation 0%.</value>
               <measures>NA</measures>
             </elementValue>
           </time>
@@ -29733,7 +29733,7 @@
             <startTime>2020-03-15T00:00:00+08:00</startTime>
             <endTime>2020-03-16T00:00:00+08:00</endTime>
             <elementValue>
-              <value>22</value>
+              <value>21</value>
               <measures>C</measures>
             </elementValue>
           </time>
@@ -29973,7 +29973,7 @@
             <startTime>2020-03-15T00:00:00+08:00</startTime>
             <endTime>2020-03-16T00:00:00+08:00</endTime>
             <elementValue>
-              <value>19</value>
+              <value>18</value>
               <measures>C</measures>
             </elementValue>
           </time>
@@ -30657,7 +30657,7 @@
             <startTime>2020-03-15T00:00:00+08:00</startTime>
             <endTime>2020-03-16T00:00:00+08:00</endTime>
             <elementValue>
-              <value>Partly clear. Temperature between 19 and 26 centigrade. Cool~Comfortable. S wind 3m/s. Chance of precipitation 0%.</value>
+              <value>Partly clear. Temperature between 18 and 26 centigrade. Cool~Comfortable. S wind 3m/s. Chance of precipitation 0%.</value>
               <measures>NA</measures>
             </elementValue>
           </time>
